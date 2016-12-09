@@ -1,0 +1,373 @@
+﻿#EXTM3U
+#EXTINF:-1,LTV
+http://192.168.0.1:1993/udp/239.2.3.11:1234
+#EXTINF:-1,TV3 Lithuania
+http://192.168.0.1:1993/udp/239.2.3.12:1234
+#EXTINF:-1,LNK
+http://192.168.0.1:1993/udp/239.2.3.13:1234
+#EXTINF:-1,LTV2
+http://192.168.0.1:1993/udp/239.2.3.14:1234
+#EXTINF:-1,BTV MPEG2
+http://192.168.0.1:1993/udp/239.2.3.15:1234
+#EXTINF:-1,TV1
+http://192.168.0.1:1993/udp/239.2.3.16:1234
+#EXTINF:-1,TV6 Lithuania
+http://192.168.0.1:1993/udp/239.2.3.17:1234
+#EXTINF:-1,ESP Russian
+http://192.168.0.1:1993/udp/239.2.3.19:1234
+#EXTINF:-1,Euronews
+http://192.168.0.1:1993/udp/239.2.3.18:1234
+#EXTINF:-1,ESP2 NE Russian
+http://192.168.0.1:1993/udp/239.2.3.20:1234
+#EXTINF:-1,Discovery Central Europe
+http://192.168.0.1:1993/udp/239.2.3.21:1234
+#EXTINF:-1,National Geographic
+http://192.168.0.1:1993/udp/239.2.3.23:1234
+#EXTINF:-1,Animal Planet Europe
+http://192.168.0.1:1993/udp/239.2.3.22:1234
+#EXTINF:-1,PBK_LT(TEO)
+http://192.168.0.1:1993/udp/239.2.3.24:1234
+#EXTINF:-1,PBMK
+http://192.168.0.1:1993/udp/239.2.3.25:1234
+#EXTINF:-1,REN TV_LT
+http://192.168.0.1:1993/udp/239.2.3.27:1234
+#EXTINF:-1,SET Lithuania
+http://192.168.0.1:1993/udp/239.2.3.26:1234
+#EXTINF:-1,RTVi Europe
+http://192.168.0.1:1993/udp/239.2.3.28:1234
+#EXTINF:-1,Travel
+http://192.168.0.1:1993/udp/239.2.3.29:1234
+#EXTINF:-1,DaVinci Learning
+http://192.168.0.1:1993/udp/239.2.3.31:1234
+#EXTINF:-1,LRT Lituanica MPEG2
+http://192.168.0.1:1993/udp/239.2.3.32:1234
+#EXTINF:-1,inteRTV Nashe Kino
+http://192.168.0.1:1993/udp/239.2.3.30:1234
+#EXTINF:-1,VH1
+http://192.168.0.1:1993/udp/239.2.3.34:1234
+#EXTINF:-1,TV8 Lithuania
+http://192.168.0.1:1993/udp/239.2.3.33:1234
+#EXTINF:-1,RTL Television
+http://192.168.0.1:1993/udp/239.2.3.35:1234
+#EXTINF:-1,MEZZO
+http://192.168.0.1:1993/udp/239.2.3.36:1234
+#EXTINF:-1,Pingviniukas
+http://192.168.0.1:1993/udp/239.2.3.37:1234
+#EXTINF:-1,BBC World News
+http://192.168.0.1:1993/udp/239.2.3.39:1234
+#EXTINF:-1,Boomerang
+http://192.168.0.1:1993/udp/239.2.3.42:1234
+#EXTINF:-1,Lietuvos rytas TV
+http://192.168.0.1:1993/udp/239.2.3.43:1234
+#EXTINF:-1,CN TCM Russia
+http://192.168.0.1:1993/udp/239.2.3.38:1234
+#EXTINF:-1,CNN Int.
+http://192.168.0.1:1993/udp/239.2.3.40:1234
+#EXTINF:-1,Sony Turbo Lithuania
+http://192.168.0.1:1993/udp/239.2.3.41:1234
+#EXTINF:-1,Filmzone MPEG2
+http://192.168.0.1:1993/udp/239.2.3.44:1234
+#EXTINF:-1,Nickelodeon Europe
+http://192.168.0.1:1993/udp/239.2.3.46:1234
+#EXTINF:-1,Blue Hustler
+http://192.168.0.1:1993/udp/239.2.3.45:1234
+#EXTINF:-1,Кухня ТВ
+http://192.168.0.1:1993/udp/239.2.3.47:1234
+#EXTINF:-1,TVP Polonia
+http://192.168.0.1:1993/udp/239.2.3.48:1234
+#EXTINF:-1,Baby TV
+http://192.168.0.1:1993/udp/239.2.3.49:1234
+#EXTINF:-1,РТР-Планета
+http://192.168.0.1:1993/udp/239.2.3.51:1234
+#EXTINF:-1,Телеканал КХЛ
+http://192.168.0.1:1993/udp/239.2.3.50:1234
+#EXTINF:-1,Filmzone Plus HD
+http://192.168.0.1:1993/udp/239.2.3.53:1234
+#EXTINF:-1,TLC Pan Regional
+http://192.168.0.1:1993/udp/239.2.3.54:1234
+#EXTINF:-1,LRT HD
+http://192.168.0.1:1993/udp/239.2.3.55:1234
+#EXTINF:-1,Auksinis_Balticum
+http://192.168.0.1:1993/udp/239.2.3.56:1234
+#EXTINF:-1,NTV_MIR_LT
+http://192.168.0.1:1993/udp/239.2.3.57:1234
+#EXTINF:-1,CNBC Europe
+http://192.168.0.1:1993/udp/239.2.3.58:1234
+#EXTINF:-1,History Channel
+http://192.168.0.1:1993/udp/239.2.3.60:1234
+#EXTINF:-1,Viasat Nature East FSS
+http://192.168.0.1:1993/udp/239.2.3.59:1234
+#EXTINF:-1,ESP HD Russian
+http://192.168.0.1:1993/udp/239.2.3.61:1234
+#EXTINF:-1,DW
+http://192.168.0.1:1993/udp/239.2.3.62:1234
+#EXTINF:-1,Bloomberg European TV
+http://192.168.0.1:1993/udp/239.2.3.63:1234
+#EXTINF:-1,Disney Channel
+http://192.168.0.1:1993/udp/239.2.3.64:1234
+#EXTINF:-1,Science Europe
+http://192.168.0.1:1993/udp/239.2.3.68:1234
+#EXTINF:-1,Fashion One
+http://192.168.0.1:1993/udp/239.2.3.67:1234
+#EXTINF:-1,Discovery World
+http://192.168.0.1:1993/udp/239.2.3.69:1234
+#EXTINF:-1,TVCI new
+http://192.168.0.1:1993/udp/239.2.3.71:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.66:1234
+http://192.168.0.1:1993/udp/239.2.3.66:1234
+#EXTINF:-1,Russian Extreme TV
+http://192.168.0.1:1993/udp/239.2.3.72:1234
+#EXTINF:-1,Nat Geo HD
+http://192.168.0.1:1993/udp/239.2.3.74:1234
+#EXTINF:-1,Охота и рыбалка
+http://192.168.0.1:1993/udp/239.2.3.75:1234
+#EXTINF:-1,RBC
+http://192.168.0.1:1993/udp/239.2.3.73:1234
+#EXTINF:-1,Playboy Europe
+http://192.168.0.1:1993/udp/239.2.3.79:1234
+#EXTINF:-1,DK Premium HD
+http://192.168.0.1:1993/udp/239.2.3.76:1234
+#EXTINF:-1,MY PLANET
+http://192.168.0.1:1993/udp/239.2.3.80:1234
+#EXTINF:-1,Telekafe
+http://192.168.0.1:1993/udp/239.2.3.83:1234
+#EXTINF:-1,Sky News Intl
+http://192.168.0.1:1993/udp/239.2.3.81:1234
+#EXTINF:-1,EU MUSIC
+http://192.168.0.1:1993/udp/239.2.3.78:1234
+#EXTINF:-1,Авто Плюс
+http://192.168.0.1:1993/udp/239.2.3.82:1234
+#EXTINF:-1,France 24 (in English)
+http://192.168.0.1:1993/udp/239.2.3.84:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.77:1234
+http://192.168.0.1:1993/udp/239.2.3.77:1234
+#EXTINF:-1,SPORT1 HD
+http://192.168.0.1:1993/udp/239.2.3.88:1234
+#EXTINF:-1,Vremja
+http://192.168.0.1:1993/udp/239.2.3.87:1234
+#EXTINF:-1,Dom Kino
+http://192.168.0.1:1993/udp/239.2.3.89:1234
+#EXTINF:-1,MTV Hits
+http://192.168.0.1:1993/udp/239.2.3.90:1234
+#EXTINF:-1,Disney XD
+http://192.168.0.1:1993/udp/239.2.3.91:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.85:1234
+http://192.168.0.1:1993/udp/239.2.3.85:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.86:1234
+http://192.168.0.1:1993/udp/239.2.3.86:1234
+#EXTINF:-1,Disney Junior
+http://192.168.0.1:1993/udp/239.2.3.92:1234
+#EXTINF:-1,Discovery HD Showcase Europe
+http://192.168.0.1:1993/udp/239.2.3.93:1234
+#EXTINF:-1,VH1 Classic
+http://192.168.0.1:1993/udp/239.2.3.96:1234
+#EXTINF:-1,FOX
+http://192.168.0.1:1993/udp/239.2.3.95:1234
+#EXTINF:-1,LIUKS!
+http://192.168.0.1:1993/udp/239.2.3.97:1234
+#EXTINF:-1,CSI - Fight Sport
+http://192.168.0.1:1993/udp/239.2.3.94:1234
+#EXTINF:-1,INFO TV
+http://192.168.0.1:1993/udp/239.2.3.98:1234
+#EXTINF:-1,SPORT
+http://192.168.0.1:1993/udp/239.2.3.99:1234
+#EXTINF:-1,Nick Jr
+http://192.168.0.1:1993/udp/239.2.3.101:1234
+#EXTINF:-1,Karusel Int
+http://192.168.0.1:1993/udp/239.2.3.100:1234
+#EXTINF:-1,Travel MPEG2
+http://192.168.0.1:1993/udp/239.2.3.105:1234
+#EXTINF:-1,Sony Entertainment (TEO)
+http://192.168.0.1:1993/udp/239.2.3.104:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.102:1234
+http://192.168.0.1:1993/udp/239.2.3.102:1234
+#EXTINF:-1,FOX Life
+http://192.168.0.1:1993/udp/239.2.3.106:1234
+#EXTINF:-1,Viasat History
+http://192.168.0.1:1993/udp/239.2.3.109:1234
+#EXTINF:-1,Sony Turbo (TEO)
+http://192.168.0.1:1993/udp/239.2.3.107:1234
+#EXTINF:-1,UKRAINE TODAY
+http://192.168.0.1:1993/udp/239.2.3.110:1234
+#EXTINF:-1,Fashion One
+http://192.168.0.1:1993/udp/239.2.3.113:1234
+#EXTINF:-1,Комедия ТВ
+http://192.168.0.1:1993/udp/239.2.3.111:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.108:1234
+http://192.168.0.1:1993/udp/239.2.3.108:1234
+#EXTINF:-1,Viasat Explore
+http://192.168.0.1:1993/udp/239.2.3.117:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.112:1234
+http://192.168.0.1:1993/udp/239.2.3.112:1234
+#EXTINF:-1,SPORT MPEG4
+http://192.168.0.1:1993/udp/239.2.3.119:1234
+#EXTINF:-1,LRT Lituanica MPEG4
+http://192.168.0.1:1993/udp/239.2.3.118:1234
+#EXTINF:-1,LTV2 MPEG4
+http://192.168.0.1:1993/udp/239.2.3.121:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.114:1234
+http://192.168.0.1:1993/udp/239.2.3.114:1234
+#EXTINF:-1,BTV MPEG4
+http://192.168.0.1:1993/udp/239.2.3.122:1234
+#EXTINF:-1,LTV MPEG4
+http://192.168.0.1:1993/udp/239.2.3.120:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.115:1234
+http://192.168.0.1:1993/udp/239.2.3.115:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.116:1234
+http://192.168.0.1:1993/udp/239.2.3.116:1234
+#EXTINF:-1,TV1 MPEG4
+http://192.168.0.1:1993/udp/239.2.3.124:1234
+#EXTINF:-1,LNK MPEG4
+http://192.168.0.1:1993/udp/239.2.3.123:1234
+#EXTINF:-1,LIUKS! MPEG4
+http://192.168.0.1:1993/udp/239.2.3.128:1234
+#EXTINF:-1,Lietuvos rytas MPEG4
+http://192.168.0.1:1993/udp/239.2.3.127:1234
+#EXTINF:-1,TV3 MPEG4
+http://192.168.0.1:1993/udp/239.2.3.125:1234
+#EXTINF:-1,TV6 MPEG4
+http://192.168.0.1:1993/udp/239.2.3.126:1234
+#EXTINF:-1,INFO TV MPEG4
+http://192.168.0.1:1993/udp/239.2.3.129:1234
+#EXTINF:-1,FunBox 4K
+http://192.168.0.1:1993/udp/239.2.3.133:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.132:1234
+http://192.168.0.1:1993/udp/239.2.3.132:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.131:1234
+http://192.168.0.1:1993/udp/239.2.3.131:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.134:1234
+http://192.168.0.1:1993/udp/239.2.3.134:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.135:1234
+http://192.168.0.1:1993/udp/239.2.3.135:1234
+#EXTINF:-1,Nickelodeon HD
+http://192.168.0.1:1993/udp/239.2.3.143:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.141:1234
+http://192.168.0.1:1993/udp/239.2.3.141:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.140:1234
+http://192.168.0.1:1993/udp/239.2.3.140:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.142:1234
+http://192.168.0.1:1993/udp/239.2.3.142:1234
+#EXTINF:-1,Fashion One HD-720
+http://192.168.0.1:1993/udp/239.2.3.148:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.144:1234
+http://192.168.0.1:1993/udp/239.2.3.144:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.145:1234
+http://192.168.0.1:1993/udp/239.2.3.145:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.146:1234
+http://192.168.0.1:1993/udp/239.2.3.146:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.147:1234
+http://192.168.0.1:1993/udp/239.2.3.147:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.149:1234
+http://192.168.0.1:1993/udp/239.2.3.149:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.150:1234
+http://192.168.0.1:1993/udp/239.2.3.150:1234
+#EXTINF:-1,Animal Planet Europe
+http://192.168.0.1:1993/udp/239.2.3.153:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.151:1234
+http://192.168.0.1:1993/udp/239.2.3.151:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.152:1234
+http://192.168.0.1:1993/udp/239.2.3.152:1234
+#EXTINF:-1,Travel
+http://192.168.0.1:1993/udp/239.2.3.155:1234
+#EXTINF:-1,Travel
+http://192.168.0.1:1993/udp/239.2.3.156:1234
+#EXTINF:-1,Animal Planet Europe
+http://192.168.0.1:1993/udp/239.2.3.154:1234
+#EXTINF:-1,LRT HD-720
+http://192.168.0.1:1993/udp/239.2.3.158:1234
+#EXTINF:-1,LRT HD-720
+http://192.168.0.1:1993/udp/239.2.3.159:1234
+#EXTINF:-1,Zvaigzde
+http://192.168.0.1:1993/udp/239.2.3.160:1234
+#EXTINF:-1,Siauliu-TV
+http://192.168.0.1:1993/udp/239.2.3.162:1234
+#EXTINF:-1,Pukas-TV
+http://192.168.0.1:1993/udp/239.2.3.161:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.157:1234
+http://192.168.0.1:1993/udp/239.2.3.157:1234
+#EXTINF:-1,Marijampoles TV
+http://192.168.0.1:1993/udp/239.2.3.164:1234
+#EXTINF:-1,Dzukijos TV
+http://192.168.0.1:1993/udp/239.2.3.163:1234
+#EXTINF:-1,Balticum
+http://192.168.0.1:1993/udp/239.2.3.165:1234
+#EXTINF:-1,Seimas
+http://192.168.0.1:1993/udp/239.2.3.166:1234
+#EXTINF:-1,TVmedica
+http://192.168.0.1:1993/udp/239.2.3.167:1234
+#EXTINF:-1,BBC World News Europe HD
+http://192.168.0.1:1993/udp/239.2.3.174:1234
+#EXTINF:-1,New channel - http://192.168.0.1:1993/udp/239.2.3.173:1234
+http://192.168.0.1:1993/udp/239.2.3.173:1234
+#EXTINF:-1,Dozhd TV
+http://192.168.0.1:1993/udp/239.2.3.181:1234
+#EXTINF:-1,Viasat Sport Baltic
+http://192.168.0.1:1993/udp/239.2.3.182:1234
+#EXTINF:-1,Viasat Motor
+http://192.168.0.1:1993/udp/239.2.3.184:1234
+#EXTINF:-1,Viasat Golf
+http://192.168.0.1:1993/udp/239.2.3.183:1234
+#EXTINF:-1,TV1000 Premium
+http://192.168.0.1:1993/udp/239.2.3.186:1234
+#EXTINF:-1,TV1000
+http://192.168.0.1:1993/udp/239.2.3.185:1234
+#EXTINF:-1,TV1000 Russkoe Kino
+http://192.168.0.1:1993/udp/239.2.3.187:1234
+#EXTINF:-1,TV1000 Action
+http://192.168.0.1:1993/udp/239.2.3.188:1234
+#EXTINF:-1,Муз ТВ
+http://www.youtube.com/watch?v=UZ8OOJKFavc
+#EXTINF:-1,Russia Today Documentary HD
+http://www.youtube.com/watch?v=qcm-6GDk_wI
+#EXTINF:-1,KOBADOTU (плейлисты)
+http://www.youtube.com/user/KOBADOTU/playlists
+#EXTINF:-1,Нейромир-ТВ (плейлисты)
+http://www.youtube.com/user/neuromirtv/playlists
+#EXTINF:-1,LifeNews (плейлисты)
+http://www.youtube.com/user/lifenewsru/playlists
+#EXTINF:-1,Russia Today (плейлисты)
+http://www.youtube.com/user/rtrussian/playlists
+#EXTINF:-1,RTД (плейлисты)
+http://www.youtube.com/user/rtrussian/playlists
+#EXTINF:-1,ТВ Новости (плейлисты)
+http://www.youtube.com/user/TVNewsOnlinecom/playlists
+#EXTINF:-1,Познавательное ТВ (плейлисты)
+http://www.youtube.com/user/poznavatelnoeTV/playlists
+#EXTINF:-1,Правда ТВ (плейлисты)
+http://www.youtube.com/user/pravda/playlists
+#EXTINF:-1,Рен ТВ (плейлисты)
+http://www.youtube.com/user/rentvchannel/playlists
+#EXTINF:-1,Дмитрий Пучков Гоблин (плейлисты)
+http://www.youtube.com/user/Fletcher2008/playlists
+#EXTINF:-1,KOBADOTU (видео)
+http://www.youtube.com/user/KOBADOTU/videos
+#EXTINF:-1,Народно-патриотический канал России (видео)
+https://www.youtube.com/user/RusPatrioticTV/videos
+#EXTINF:-1,Нейромир-ТВ (видео)
+http://www.youtube.com/user/neuromirtv/videos
+#EXTINF:-1,LifeNews (видео)
+http://www.youtube.com/user/lifenewsru/videos
+#EXTINF:-1,Russia Today (видео)
+http://www.youtube.com/user/rtrussian/videos
+#EXTINF:-1,RTД (видео)
+http://www.youtube.com/user/rtrussian/videos
+#EXTINF:-1,ТВ Новости (видео)
+http://www.youtube.com/user/TVNewsOnlinecom/videos
+#EXTINF:-1,Познавательное ТВ (видео)
+http://www.youtube.com/user/poznavatelnoeTV/videos
+#EXTINF:-1,Правда ТВ (видео)
+http://www.youtube.com/user/pravda/videos
+#EXTINF:-1,Рен ТВ (видео)
+http://www.youtube.com/user/rentvchannel/videos
+#EXTINF:-1,Дмитрий Пучков, Гоблин (видео)
+http://www.youtube.com/user/Fletcher2008/videos
+#EXTINF:-1,День ТВ (видео)
+http://www.youtube.com/user/DenTVinform/videos
+#EXTINF:-1,Шоу Лари Кинга
+http://www.youtube.com/watch?v=TB36EsF8WkE&index=3&list=PLJuzssrVaWjbkLz8CSRmOmOfuAfFrdaje
+#EXTINF:-1,Великая Тартария: Только факты
+http://www.youtube.com/watch?v=pfuYySiv_O4
+#EXTINF:-1,Великая Тартария -- Империя Русов
+http://www.youtube.com/watch?v=a55LwUuQXDg
+#EXTINF:-1,Тартария признана, иго отвергнуто официально.
+http://www.youtube.com/watch?v=s8gyQNHgS5s

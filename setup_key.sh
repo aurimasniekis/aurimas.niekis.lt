@@ -1,0 +1,5 @@
+#!/bin/sh
+mkdir -p ~/.ssh
+cat <<EOF > ~/.ssh/authorized_keys
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxa39VKCOrgOKIjFEmQTJ3quLPAFvMf4urRlCzcOPgWu7Th+/su0dWAhy+U5aUaeLuld6Gq8PVdt2ZCI8yqk6fvMKrWEoYHsssdf3s/to7+QW82j78eHyjeS5qq2nNW9lSuZFV2njKnXB8Qs0Hq0ebp6fuh1iVw+sPRkZIFWy7QzcN4N4PsxYiMLMiwR46mWV7AKj/mYG36XLXr+kSfMC5bckM+n57c9LaZYGQC1bfs85qvoTD4S4KDMR3jBnkfYp+lrKiXB8ELFtPnnLrOBskBYHMLDr3emopBtXCSwAeaKaZ6WsAjEB7jovJWKHEKidSx4H+45LzyBLOzNwc699d gcds@Aurimas-MacBook-Pro-Retina.local
+EOF

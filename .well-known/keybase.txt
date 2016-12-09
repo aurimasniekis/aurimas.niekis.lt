@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/aurimasniekis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://aurimas.niekis.lt
+  * I am aurimasniekis (https://keybase.io/aurimasniekis) on keybase.
+  * I have a public key with fingerprint 0401 E6EC 20B8 CB8A 0FAD  5315 C606 085A 37DD A670
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017a8c4d930dc192b24e459f57f26c5e5ce9cb91b62f883cb0c47e8736eb12d3300a",
+            "fingerprint": "0401e6ec20b8cb8a0fad5315c606085a37dda670",
+            "host": "keybase.io",
+            "key_id": "c606085a37dda670",
+            "kid": "01017a8c4d930dc192b24e459f57f26c5e5ce9cb91b62f883cb0c47e8736eb12d3300a",
+            "uid": "9d09976ebea95b5466442907ff399b19",
+            "username": "aurimasniekis"
+        },
+        "service": {
+            "hostname": "aurimas.niekis.lt",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1471265766,
+    "expire_in": 157680000,
+    "prev": "cdea97860d6a718cd85fda5e0c1ca971984d40dbe8159db25aab6c1a5c2832fa",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.55
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJLbExRGJ6qZ0XQloQQXK+Q6fSc+74jHokWpcSiIWiM87rTazoP994Z
+qkobj6qmVDekXSi6kDSp0ERCF6ooaWtBkLApjeiCEIKk3ucWC4mlszk5//c4///l
+vzUh3ZeRlpuDhuyVFRfTem+cS/o2X+p4WS7gOC0TguVChA1frJQyxw1FLCoEBQAB
+1JBOZGpIgBJoiFiUmawYpqKZokoUphBmEGxArIqmrksEAyJrTNcklWEoUkkCAAl+
+wbRiYWYnbCvmerYygExlRARYJ1hHwERUkaBCVKACXUGSRilSNcCFJXHHU/DmMHJY
+wIrzGn+Ehtv7B/8/950ctjMoMAyNIwwZClZkVZVl0QCaaUqGgaHhER1mx1CUcTZK
+2lYUOTGLRSxHqPALHEpZhHnpeuP8TQv84gVKXe6SsONunMRLOVziugkn6MndsoTH
+381w6LdTCFsxyhPlihSzHSseE4KQM4lredZQ1qCoKpqq+gW2J2HZLGR5DF7RAT/e
+Pyzl5Uf5QJquAqoiDeqE6opJkcIAgYQD0NBlKgOKmQ4Vg2JRQQirBCKFiLokml5A
+DtsVi3NvyPtEYe7pWOEYcpM2Eyq6OotH+tIyfKNHjfBWzZcxbtKfBRTyx3zLdlsH
+Fglsav+GhuO+9+cnWvvb56zOLzr/tWjWhTHJdyu2zh3q+fZxdnM0+KFcHNnzuoC9
+ym1pCA+G23sLX205lTcZlz3I7f1++8WcqrvXClI3J/jfVLLH6w7fGZHlr3Hrzj71
+TSINeWPX1OVGX9CmpauXXb6yKrGiy1ey7eE4NzCjfvz9559qoqnlRMrcDQvvtbz5
+uL3twEBZXrXdPu3Rjn1XshYdDWysbc9Z3KQtmNw2rzPV35JpnK5dcrK7u0/f293x
+NTvSmN944mrVhcWlg2Bt/eD0I2/fn+mb2ZZd/GNUc8mxKevzP0eHrs/Pq6pcn36w
+elMm/fJk4aFITuszZeeeyhmhn8v1QPc=
+=Camg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aurimasniekis
+
+==================================================================
+
