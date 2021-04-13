@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Software Engineering",
+    "technologies": [
+      "C",
+      "C++",
+      "C#",
+      "Crystal",
+      "Delphi",
+      "Elixir",
+      "Golang",
+      "Javascript",
+      "Java",
+      "NodeJS",
+      "PHP",
+      "Ruby",
+      "Rust",
+      "Typescript"
+    ]
+  },
+  {
+    "title": "Embedded Software Engineering",
+    "technologies": [
+      "ASM",
+      "C",
+      "C++",
+      "Crystal",
+      "FreeRTOS",
+      "Rust"
+    ]
+  },
+  {
+    "title": "Web Application Development",
+    "technologies": [
+      "CakePHP",
+      "Express",
+      "Laravel",
+      "Ruby on Rails",
+      "Spring Boot",
+      "Symfony"
+    ]
+  },
+  {
+    "title": "Frontend Software Engineering",
+    "technologies": [
+      "AngularJS",
+      "Babel",
+      "Bootstrap",
+      "CSS",
+      "ES6",
+      "ES7",
+      "HTML5",
+      "Javascript",
+      "JSX",
+      "React",
+      "Redux",
+      "Tailwindcss",
+      "Typescript",
+      "WebPack"
+    ]
+  },
+  {
+    "title": "Mobile Software Engineering",
+    "technologies": [
+      "Cordova",
+      "React Native"
+    ]
+  },
+  {
+    "title": "Big Data Engineering",
+    "technologies": [
+      "Cassandra",
+      "Elasticsearch",
+      "Hadoop",
+      "Hive",
+      "Kafka",
+      "Presto",
+      "RabbitMQ",
+      "Spark"
+    ]
+  },
+  {
+    "title": "Database Engineering",
+    "technologies": [
+      "Algolia",
+      "CouchBase",
+      "Elasticsearch",
+      "InfluxDB",
+      "Lucene",
+      "MySQL",
+      "MemSQL",
+      "MariaDB",
+      "Memcache",
+      "MongoDB",
+      "PostgreSQL",
+      "Redis",
+      "RethinkDB",
+      "Solr"
+    ]
+  },
+  {
+    "title": "Version Control",
+    "technologies": [
+      "CVS",
+      "Git",
+      "BitBucket",
+      "Github",
+      "GitLab",
+      "Mercurial",
+      "SVN"
+    ]
+  },
+  {
+    "title": "Virtualization & Containerization",
+    "technologies": [
+      "Docker",
+      "Vagrant",
+      "VirtualBox",
+      "VMware ESXi",
+      "VMware Fusion",
+      "VMware Workstation"
+    ]
+  },
+  {
+    "title": "DevOps",
+    "technologies": [
+      "Kubernetes",
+      "Ansible",
+      "Chef",
+      "Puppet",
+      "Terraform",
+      "SaltStack",
+      "Jenkins",
+      "Travis",
+      "Github Actions"
+    ]
+  },
+  {
+    "title": "Monitoring Tools",
+    "technologies": [
+      "New Relic",
+      "Sentry"
+    ]
+  },
+  {
+    "title": "Cloud Platforms",
+    "technologies": [
+      "AWS",
+      "GCP",
+      "DigitalOcean"
+    ]
+  },
+  {
+    "title": "Task Management",
+    "technologies": [
+      "Jira",
+      "Redmine",
+      "Github"
+    ]
+  },
+  {
+    "title": "Software Architecture",
+    "technologies": [
+      "SDLC",
+      "SLA",
+      "SLO",
+      "SOA",
+      "SPA",
+      "UML"
+    ]
+  },
+  {
+    "title": "Team Lead / Project Lead",
+    "technologies": [
+      "Agile",
+      "Code Review",
+      "Communication",
+      "Conflict Resolution",
+      "Delegating",
+      "Extreme Programming",
+      "Giving & Receiving Feedback",
+      "Kanban",
+      "Lean",
+      "Pair Programming",
+      "Organization",
+      "Problem Solving",
+      "Scrum",
+      "Team Tracking",
+      "Technical Decision Making",
+      "Technical Documentation"
+    ]
+  },
+  {
+    "title": "Digital Electronics",
+    "technologies": [
+      "Atmel AVR 8-Bit",
+      "ARM Cortex L0",
+      "ARM Cortex L4",
+      "ARM Cortex M0",
+      "ARM Cortex M1",
+      "ARM Cortex M3",
+      "ARM Cortex M4",
+      "ARM Cortex M7",
+      "ARM Cortex A5",
+      "ARM Cortex A8",
+      "Arduino",
+      "BeagleBone",
+      "RaspberryPi",
+      "STM32 series",
+      "Atmel SAM series",
+      "CAN",
+      "RS-485",
+      "Ethernet",
+      "Wiegand",
+      "6LoWPAN",
+      "Sub-1Ghz",
+      "WiFi"
+    ]
+  },
+  {
+    "title": "Analog Electronics",
+    "technologies": [
+      "Power Converters",
+      "Amplifiers"
+    ]
+  },
+  {
+    "title": "Schematic & PCB Design",
+    "technologies": [
+      "Altium",
+      "CircuitDesign",
+      "Eagle",
+      "KiCAD"
+    ]
+  },
+  {
+    "title": "CAD Software",
+    "technologies": [
+      "Autodesk Inventor",
+      "OpenSCAD",
+      "LibreCAD"
+    ]
+  },
+  {
+    "title": "Design Software",
+    "technologies": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "Sketch"
+    ]
+  }
+]

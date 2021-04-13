@@ -1,0 +1,29 @@
+#!/usr/bin/env node
+const puppeteer = require("puppeteer");
+
+(async () => {
+    const browser = await puppeteer.launch();
+    const webPage = await browser.newPage();
+
+    const url = "http://localhost:3000/cv?cv_build";
+
+    await webPage.goto(url, {
+        waitUntil: "networkidle0"
+    });
+
+    await webPage.setViewport({width: 1920, height: 1080})
+    await webPage.pdf({
+        printBackground: true,
+        format: "A4",
+        scale: 0.7,
+        path: "./public/cv.pdf",
+        margin: {
+            top: "0px",
+            bottom: "0px",
+            left: "0px",
+            right: "0px"
+        }
+    });
+
+    await browser.close();
+})();

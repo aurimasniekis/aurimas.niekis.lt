@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Symfony",
+    "type": "Contributions",
+    "url": "https://github.com/symfony/",
+    "logos": [
+      {
+        "src": "/images/symfony.png",
+        "size": "h-10"
+      }
+    ],
+    "work_period": {
+      "start": "2016",
+      "end": "Present"
+    },
+    "about": "Contributing new code and bug-fixes to well know PHP web framework Symfony.",
+    "technologies": [
+      "PHP"
+    ]
+  },
+  {
+    "name": "Thruster PHP Framework",
+    "type": "Contributions",
+    "url": "https://github.com/thrusterio/",
+    "logos": [
+      {
+        "src": "/images/thruster.png",
+        "size": "h-10"
+      }
+    ],
+    "work_period": {
+      "start": "2016",
+      "end": "Present"
+    },
+    "about": "Researching and developing asynchronous PHP application framework for high-performance and high-availability systems.",
+    "technologies": [
+      "PHP"
+    ]
+  },
+  {
+    "name": "PHP Funct",
+    "type": "Contributions",
+    "url": "https://github.com/phpfunct/funct",
+    "logos": [
+      {
+        "src": "/images/phpfunct.png",
+        "size": "h-10"
+      }
+    ],
+    "work_period": {
+      "start": "2016",
+      "end": "Present"
+    },
+    "about": "Researching and developing an PHP library with commonly used code blocks for faster development.",
+    "technologies": [
+      "PHP"
+    ]
+  },
+  {
+    "name": "Entry access control and tracking system",
+    "type": "Freelance",
+    "url": null,
+    "logos": [
+    ],
+    "work_period": {
+      "start": "2015"
+    },
+    "about": "Research and develop and integrated system for entry (door, gate, escalator, elevator, and etc) control and tracking.",
+    "aboutList": [
+      "Designed electronics modules based on ARM Cortex M0 and ARM926 to interact with existing hardware.",
+      "Designed software for electronics module and central operating server using C++, NodeJS, PHP, Ruby, MySQL and Linux"
+    ],
+    "location": "Lithuania",
+    "technologies": [
+      "C",
+      "C++",
+      "Embedded MCU",
+      "PHP",
+      "NodeJS",
+      "Javascript",
+      "Ruby",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "Geolocation tracking and analysing for transport",
+    "type": "Freelance",
+    "url": null,
+    "logos": [
+    ],
+    "work_period": {
+      "start": "2015"
+    },
+    "about": "Research and develop and integrated system for cargo expedition company to track and analyse transport vehicles.",
+    "aboutList": [
+      "Designed electronics module based on ARM Cortex-A8 to communicate with vehicle on board computer via CAN bus, track location using GPS and communicate with main server via Cellular Data Modem.",
+      "Designed software for electronic module and main server to display current status, analyse data and track company vehicles using C++, PHP, NodeJS, RethinkDB, HTML5, ReactJS,"
+    ],
+    "location": "Lithuania",
+    "technologies": [
+      "C",
+      "C++",
+      "Embedded MCU",
+      "ARM Cortex M0",
+      "ARM926",
+      "GPS",
+      "CAN",
+      "PHP",
+      "NodeJS",
+      "Javascript",
+      "Ruby",
+      "MySQL",
+      "RethinkDB"
+    ]
+  },
+  {
+    "name": "6LoWPAN based visualized art installation\n",
+    "type": "Art Installation",
+    "url": null,
+    "logos": [
+    ],
+    "work_period": {
+      "start": "2014"
+    },
+    "about": "Developed small art installation based on early access TI 6LoWPAN Sub-1Ghz modules and Edge router to create wireless light installation for a friend artist using C++ and Processing.",
+    "technologies": [
+      "C",
+      "C++",
+      "6LoWPAN",
+      "Sub-1Ghz",
+      "Embedded MCU",
+      "ARM926",
+      "NodeJS"
+    ]
+  }
+]

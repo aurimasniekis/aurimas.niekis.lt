@@ -1,0 +1,524 @@
+[
+  {
+    "type": "job",
+    "job": {
+      "company_name": "GMO Research, Inc.",
+      "url": "https://gmo-research.com/",
+      "position": "System Division Leader",
+      "logos": [
+        {
+          "src": "/images/gmo_research.png",
+          "size": "h-5"
+        }
+      ],
+      "work_period": {
+        "start": "February 2020",
+        "end": "Present"
+      },
+      "location": "Tokyo, Japan",
+      "sector": "Communications",
+      "industry": "Media / Internet Media & Services",
+      "about_company": "GMO Research offers an online research solution platform that allows access to our multi-panel and multi-country online panel network - Asia Cloud Panel. While we are constantly expanding our reach in Asia and globally, Asia Cloud Panel consists of over 36 million online consumer panelists across 15 APAC countries/markets, ranging from consumers to CEOs.\n\nGMO Research is a part of and backed by GMO Internet Group - one of the largest Internet Conglomerates in Japan specializing in a number of Internet-related technologies.",
+      "about_position": "My role at GMO Research is to lead the modernization of the existing projects, which are using outdated technologies and infrastructure and reform and teach the new way to develop and utilize new technologies.\n\nLeading a new trend in the company, helping to refactor/rewrite/migrate existing projects to new frameworks and programming languages. Working with DevOps team to teach and introduce the usage of cloud providers like AWS and GCP. Creating tools and templates for new projects to help with local development, continuous integration, continuous deployments, and infrastructure. Improving workflow of developing projects.\n\nHosting a PHP workshop to teach company PHP developers of the newest frameworks, language new features, and techniques to develop efficient and modern code. ",
+      "responsibilities": [
+        "Take up the responsibility of the entire Project",
+        "Carefully analyse the project and rectify the errors found in the process",
+        "Undergoing the process of analysis in order to fulfil the requirement of system wide",
+        "Developing the detailed design structure after understanding the requirements and the design",
+        "Create and participate in software planning and estimating, status monitoring and reporting",
+        "Devise new approaches, apply existing criteria in new ways and draw conclusions from comparative situations",
+        "Software design, prototyping and investigating",
+        "Software coding and unit testing",
+        "Systems integration and testing",
+        "Software documentation",
+        "Troubleshoot for program errors in existing systems",
+        "Make recommendations on the assessment of tools and software products",
+        "Manage and support other software engineering staff",
+        "Participate in mandated engineering reviews",
+        "Participate in the pursuit of new business by identifying opportunities and contributing to tender preparation",
+        "Participate in continuous improvement initiatives"
+      ],
+      "technologies": [
+        "PHP8",
+        "PHP7",
+        "PHP5",
+        "Java",
+        "Golang",
+        "Symfony",
+        "CakePHP",
+        "AWS",
+        "GCP",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Mutagen",
+        "MySQL",
+        "Redis",
+        "RabbitMQ",
+        "InfluxDB",
+        "Elasticsearch",
+        "ELK",
+        "Grafana",
+        "Github",
+        "Jenkins",
+        "Redmine",
+        "Jira"
+      ],
+      "attachments": [
+      ]
+    }
+  },
+  {
+    "type": "move",
+    "move": {
+      "title": "February 2020 – Moved to Tokyo, Japan"
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "Sony Music Entertainment UK Ltd (NOW That's What I Call Music)",
+      "url": "https://www.sonymusic.co.uk/",
+      "position": "Senior Software Engineer",
+      "logos": [
+        {
+          "src": "/images/now_music.png",
+          "size": "h-10"
+        },
+        {
+          "src": "/images/sony_music.png",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "April 2019",
+        "end": "February 2020"
+      },
+      "location": "London, United Kingdom",
+      "sector": "Communications",
+      "industry": "Media / Entertainment Content",
+      "about_company": "Sony Music Entertainment UK Ltd. provides broadcasting and entertainment services. The Company offers music recording, record marketing, artist marketing, and promotion services. Sony Music Entertainment markets its products worldwide.\n\nNOW That’s What I Call Music is the biggest selling compilation brand in the world.",
+      "about_position": "My role at Sony Music Entertainment (NOW That's What I Call Music brand) was to develop API for their mobile music streaming service with hundreds of thousands of subscribers in the United Kingdom market.\n\nI worked with the team to develop new features and improve previous ones to handle the more significant load on servers and reduce the cloud provider service fees by changing used technologies and the way it is utilized.\n\nI have created internal tools to help work with the music library and analytics on mobile apps usage to provide better insight for the team.",
+      "responsibilities": [
+        "Create and participate in software planning and estimating, status monitoring and reporting",
+        "Devise new approaches, apply existing criteria in new ways and draw conclusions from comparative situations",
+        "Software design, prototyping and investigating",
+        "Software coding and unit testing",
+        "Systems integration and testing",
+        "Software documentation",
+        "Troubleshoot for program errors in existing systems",
+        "Make recommendations on the assessment of tools and software products",
+        "Manage and support other software engineering staff",
+        "Participate in mandated engineering reviews",
+        "Participate in the pursuit of new business by identifying opportunities and contributing to tender preparation",
+        "Participate in continuous improvement initiatives"
+      ],
+      "technologies": [
+        "PHP7",
+        "MySQL",
+        "Symfony",
+        "Laravel",
+        "Docker",
+        "AWS",
+        "Elasticsearch",
+        "GitLab",
+        "Kubernetes"
+      ],
+      "attachments": [
+      ]
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "LendInvest Ltd",
+      "url": "https://www.lendinvest.com",
+      "position": "Backend Software Engineer",
+      "logos": [
+        {
+          "src": "/images/lendinvest.png",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "April 2018",
+        "end": "April 2019"
+      },
+      "location": "London, United Kingdom",
+      "sector": "Financials",
+      "industry": "Financial Services / Specialty Finance",
+      "about_company": "LendInvest is a non-bank mortgage lender in the UK and is a property lending and investing platform. As an alternative Fintech lender in the property market, LendInvest provides fast finance to property professionals and small and medium-sized businesses around the UK.\n\nLendInvest is the UK’s leading platform for property finance. Since starting in 2008, It had lent more than £3 billion of mortgages and has helped put thousands of new or improved homes into the UK housing market.",
+      "about_position": "My work at LendInvest was to develop an integration between internal loan book application and Oracle NetSuite application to create and manage transactional documents and transfers.\n\nThe service I created is handling thousands of transactional messages from 3rd party service provider into loan book application and creating required documents and records inside NetSuite using integration module I developed for Oracle Netsuite using SuiteScript.",
+      "responsibilities": [
+        "Create and participate in software planning and estimating, status monitoring and reporting",
+        "Devise new approaches, apply existing criteria in new ways and draw conclusions from comparative situations",
+        "Software design, prototyping and investigating",
+        "Software coding and unit testing",
+        "Systems integration and testing",
+        "Software documentation",
+        "Troubleshoot for program errors in existing systems",
+        "Make recommendations on the assessment of tools and software products",
+        "Manage and support other software engineering staff",
+        "Participate in mandated engineering reviews",
+        "Participate in the pursuit of new business by identifying opportunities and contributing to tender preparation",
+        "Participate in continuous improvement initiatives"
+      ],
+      "technologies": [
+        "PHP7",
+        "Javascript",
+        "NodeJS",
+        "PostgreSQL",
+        "MySQL",
+        "Symfony4",
+        "Docker",
+        "AWS",
+        "Jenkins",
+        "Kubernetes",
+        "Oracle NetSuite",
+        "SuiteScript"
+      ],
+      "attachments": [
+      ]
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "Cortexica Vision Systems Ltd.",
+      "url": "https://www.cortexica.com",
+      "position": "Senior PHP Software Engineer",
+      "logos": [
+        {
+          "src": "/images/cortexica.jpeg",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "July 2017",
+        "end": "March 2018"
+      },
+      "location": "London, United Kingdom",
+      "sector": "Technology",
+      "industry": "Software / Tech Services",
+      "about_company": "Cortexica is a London based, global service provider of practical AI solutions for businesses. Providing clarity and insight from within the noise around AI, Cortexica delivers world-leading Computer Vision image recognition and search technologies supported by industry specific consultancy.  \n\nWorking with clients across a range of verticals including retail, media, manufacturing and pharmaceuticals, Cortexica’s technology is robust and flexible and can be integrated to any requirements on any system or platform, including on device. The ability to partner with clients to create AI solutions for their specific needs, from innovation to delivery, ensures maximum benefit and return on investment. Cortexica was developed from the Bioengineering Department of Imperial College London, and originated from a pioneering research to reverse-engineer the human visual cortex.",
+      "about_position": "My work at Cortexica was to create a client-facing service API to interact with back-end AI technologies developed by the company to help easier integration with them. \n\nI have also created internal tools to visualize client data, usage information, and other information to help our sales team work with its clients using the latest frontend technologies like React & Redux.",
+      "responsibilities": [
+        "Create and participate in software planning and estimating, status monitoring and reporting",
+        "Devise new approaches, apply existing criteria in new ways and draw conclusions from comparative situations",
+        "Software design, prototyping and investigating",
+        "Software coding and unit testing",
+        "Systems integration and testing",
+        "Software documentation",
+        "Troubleshoot for program errors in existing systems",
+        "Make recommendations on the assessment of tools and software products",
+        "Manage and support other software engineering staff",
+        "Participate in mandated engineering reviews",
+        "Participate in the pursuit of new business by identifying opportunities and contributing to tender preparation",
+        "Participate in continuous improvement initiatives"
+      ],
+      "technologies": [
+        "PHP7",
+        "Javascript",
+        "React",
+        "Redux",
+        "MySQL",
+        "MongoDB",
+        "Symfony4",
+        "Docker",
+        "AWS",
+        "RabbitMQ",
+        "Elasticsearch",
+        "Redis"
+      ],
+      "attachments": [
+      ]
+    }
+  },
+  {
+    "type": "move",
+    "move": {
+      "title": "July 2017 – Moved to London, United Kingdom"
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "Trivago NV",
+      "url": "https://trivago.com",
+      "position": "Senior Software Engineer",
+      "logos": [
+        {
+          "src": "/images/trivago.png",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "November 2016",
+        "end": "July 2017"
+      },
+      "location": "Düsseldorf, Germany",
+      "sector": "Communications",
+      "industry": "Internet Media / Services",
+      "about_company": "Trivago N.V., marketed with lowercase styling as trivago, is a Dutch-domiciled transnational technology company specializing in internet-related services and products in the hotel, lodging and metasearch fields.\n\ntrivago is a hotel search with an extensive price comparison. The prices shown come from numerous hotels and booking websites. This means that while users decide on trivago which hotel best suits their needs.",
+      "about_position": "My work at Trivago consisted of working on two different projects. The first project was to help optimize and improve the search field's auto-suggestion feature by improving API service and optimizing the Apache Solr-based engine to reduce the time and resources required by it.\n\nThe second project was to help create synchronization of MySQL database clusters across data centers worldwide by developing a Java-based MySQL slave server technology. It uses Kafka connect technology and ProtoBuf to sync the incremental changes instead of sending whole datasets, which improved performance and reduces the data burden of great distances between data centers across the globe.",
+      "responsibilities": [
+        "Create and participate in software planning and estimating, status monitoring and reporting",
+        "Devise new approaches, apply existing criteria in new ways and draw conclusions from comparative situations",
+        "Software design, prototyping and investigating",
+        "Software coding and unit testing",
+        "Systems integration and testing",
+        "Software documentation",
+        "Troubleshoot for program errors in existing systems",
+        "Make recommendations on the assessment of tools and software products",
+        "Manage and support other software engineering staff",
+        "Participate in mandated engineering reviews",
+        "Participate in the pursuit of new business by identifying opportunities and contributing to tender preparation",
+        "Participate in continuous improvement initiatives"
+      ],
+      "technologies": [
+        "PHP",
+        "Java",
+        "Javascript",
+        "React",
+        "MySQL",
+        "Hadoop",
+        "Kafka",
+        "Solr",
+        "SaltStack",
+        "Docker",
+        "Vagrant"
+      ],
+      "attachments": [
+      ]
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "Freshcells System Engineering GmbH",
+      "url": "https://freshcells.de",
+      "position": "Senior Software Engineer",
+      "logos": [
+        {
+          "src": "/images/freshcells.svg",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "July 2015",
+        "end": "November 2016"
+      },
+      "location": "Düsseldorf, Germany",
+      "sector": "Communications",
+      "industry": "Internet Media / Services",
+      "about_company": "freshcells systems engineering GmbH is a software and consulting company from Düsseldorf. We design, develop and maintain professional and complex software solutions.",
+      "about_position": "My work at Freshcells mainly consisted of developing ETL-based technology to aggregate and calculate data mainly for the biggest European travel operators to provide up-to-date information on availability and pricing. Improving existing data flow performance and reducing the cost of running.",
+      "responsibilities": [
+        "Create and participate in software planning and estimating, status monitoring and reporting",
+        "Devise new approaches, apply existing criteria in new ways and draw conclusions from comparative situations",
+        "Software design, prototyping and investigating",
+        "Software coding and unit testing",
+        "Systems integration and testing",
+        "Software documentation",
+        "Troubleshoot for program errors in existing systems",
+        "Make recommendations on the assessment of tools and software products",
+        "Manage and support other software engineering staff",
+        "Participate in mandated engineering reviews",
+        "Participate in the pursuit of new business by identifying opportunities and contributing to tender preparation",
+        "Participate in continuous improvement initiatives"
+      ],
+      "technologies": [
+        "PHP",
+        "Ruby",
+        "Elixir",
+        "Java",
+        "Javascript",
+        "React",
+        "Redux",
+        "MySQL",
+        "Hadoop",
+        "Kafka",
+        "Cassandra",
+        "Elasticsearch"
+      ],
+      "attachments": []
+    }
+  },
+  {
+    "type": "move",
+    "move": {
+      "title": "July 2015 – Moved to Düsseldorf, Germany"
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "MailerLite",
+      "url": "https://www.mailerlite.com/",
+      "position": "Senior Backend Software Engineer | Big Data Architect",
+      "logos": [
+        {
+          "src": "/images/mailerlite.svg",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "February 2015",
+        "end": "July 2015"
+      },
+      "location": "Vilnius, Lithuania",
+      "sector": "Communications",
+      "industry": "Internet Media / Services",
+      "about_company": "MailerLite is an email marketing software designed to help people of all skill levels easily create personalized marketing campaigns to stay connected with their audience.\n\nBuild great relationships and connect with your audience on a human level using features like a drag & drop editor, landing page builder, rich-text editor, automationtools, pop-ups, surveys, templates, e-commerce tools, campaign reports, A/B testing, segmentation, abandoned carts, and more.\nThey also offer integrations with the most popular software tools including WordPress, Zapier, Shopify, PayPal and WooCommerce.\n\nAdditionally, MailerLite provides educational content like monthly webinars, product tutorials and extensive email marketing guides to ensure that their users succeed. They are known for their 24/7 exceptional customer support and for being a remote-first company. They also offer a Forever Free plan and paid plans with advanced features.",
+      "about_position": "My work at MailerLite consisted of two projects. The first one was to research and develop a better way to provide analytics for our clients which required investigating big data technologies and developing service which could withstand hundreds of billions rows of data and aggregation service to provide up to date statistics to our clients.\n\nThe second project was to develop a web-based tool to design a graphical landing page for clients to use with their email campaigns using the AngularJS framework.",
+      "responsibilities": [
+        "Manipulating, cleansing & processing data using big data tools.",
+        "Responsible for loading, extracting and validation of statistical data.",
+        "Analysing raw data, drawing conclusions & developing recommendations transformation scripts to manipulate data for data loads and extracts.",
+        "Developing data analytical databases from complex analytical source data.",
+        "Performing daily system checks.",
+        "Data entry, data auditing, creating data reports & monitoring all data for accuracy.",
+        "Designing, developing and implementing new functionality.",
+        "Monitoring the automated loading processes.",
+        "Advising on the suitability of methodologies and suggesting improvements.",
+        "Carrying out specified data processing and statistical techniques.",
+        "Supplying qualitative and quantitative data to colleagues & clients.",
+        "Software design, prototyping and investigating",
+        "Software coding and unit testing",
+        "Systems integration and testing"
+      ],
+      "technologies": [
+        "PHP",
+        "Ruby",
+        "Java",
+        "Javascript",
+        "AngularJS",
+        "MySQL",
+        "Hadoop",
+        "Cassandra",
+        "Redis",
+        "nginx"
+      ],
+      "attachments": []
+    }
+  },
+  {
+    "type": "move",
+    "move": {
+      "title": "February 2015 – Moved to Vilnius, Lithuania"
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "NFQ",
+      "url": "https://www.nfq.lt/",
+      "position": "Software Engineer",
+      "logos": [
+        {
+          "src": "/images/nfq.png",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "December 20212",
+        "end": "February 2015"
+      },
+      "location": "Kaunas, Lithuania",
+      "sector": "Communications",
+      "industry": "Internet Media / Services",
+      "about_company": "Founded in 2002, NFQ is an international digital innovation company. It builds large-scale web development, business digitalization, BI and data science projects, and provides UX, UI, and CRO services, for travel, retail, transport-and-logistics, and sharing-economy businesses across the globe. NFQ supports clients across their full business cycle with comprehensive solutions – like the world leading metasearch engines it has built for Kayak and HomeToGo. Business transformation and data-driven decisions for the digital age are enabled with in-house developed products: like Stovendo, which gives retail customers a seamless online and in-store experience, or Sensus Aero – the state-of-the-art airport ground service management system now implemented at more than 15 airports, serving Turkish Airlines, Wizz Air, Aeroflot, and many more.\n\nThe NFQ team of over 400 top-tier developers and data scientists in Lithuania, Germany, Vietnam, and Singapore is pushing the boundaries of possible beyond expectations.",
+      "about_position": "My work at NFQ consisted of mainly working on many PHP-based web projects, mainly in the e-commerce sector, creating custom modules and solutions for our clients.\n\nI also participated in local developer groups and activities to help fellow developers in the company.",
+      "responsibilities": [
+        "Create and participate in software planning and estimating, status monitoring and reporting",
+        "Software design, prototyping",
+        "Software coding and unit testing",
+        "Troubleshoot for program errors in existing systems"
+      ],
+      "technologies": [
+        "PHP",
+        "Symfony",
+        "Python",
+        "Ruby",
+        "Javascript",
+        "MySQL",
+        "RabbitMQ",
+        "Elasticsearch",
+        "ELK",
+        "Redis",
+        "nginx"
+      ],
+      "attachments": []
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "Apartment Hunterz",
+      "url": "http://apartmenthunterz.com/",
+      "position": "Software Engineer",
+      "logos": [
+        {
+          "src": "/images/ah.png",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "June 20212",
+        "end": "December 20212"
+      },
+      "location": "Kaunas, Lithuania",
+      "sector": "Communications",
+      "industry": "Internet Media / Services",
+      "about_company": "Apartment Hunters focuses on representing independent property owners and managers of apartments, houses, duplexes, townhouses and condos. We represent 6-12 unit independently owned and managed smaller apartment buildings as well as over 300 management companies who each manage 10-75 various communities throughout Los Angeles County, Orange County, San Diego area & San Francisco Bay Area.",
+      "about_position": "My work at ApartmentHunterz mainly consisted of developing data mining modules to gather data for our apartment metasearch system.",
+      "responsibilities": [
+        "Create and participate in software planning and estimating, status monitoring and reporting",
+        "Software design, prototyping",
+        "Software coding and unit testing",
+        "Troubleshoot for program errors in existing systems"
+      ],
+      "technologies": [
+        "PHP",
+        "Javascript",
+        "MySQL"
+      ],
+      "attachments": []
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "IREC Baltic",
+      "url": "http://irec.lt/",
+      "position": "IT Specialist | IT Consultant",
+      "logos": [
+        {
+          "src": "/images/irec.png",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "October 2009",
+        "end": "July 20212"
+      },
+      "location": "Kaunas, Lithuania",
+      "sector": "Construction",
+      "industry": "Real Estate",
+      "about_company": "IREC Baltic is a real estate development company engaged in a full range of services – from analysis, planning, and construction to exploitation. A thorough assessment of needs and situation, an appropriate selection of a plot or an already existing object and its accommodation for the intended use allow us to solve even the hardest tasks of planning and construction.\n\nA professional team and trustworthy partners make for a fluent and optimal process of project implementation while our innovative thinking and creativeness turn every project into a unique object that at the same time is completely compliant with the requirements. The entirety of these processes enables IREC Baltic to implement even the most ambitious projects impeccably and raise the bar of both quality and quantity to new heights each time.",
+      "about_position": "My work at IREC Baltic mainly was to help the company with IT technologies while also developing some internal tools to improve their workflows.",
+      "responsibilities": [
+        "Maintain company computers",
+        "Consult with IT questions",
+        "Develop company internal tools",
+        "Develop company website"
+      ],
+      "technologies": [
+        "PHP",
+        "Javascript",
+        "MySQL"
+      ],
+      "attachments": []
+    }
+  }
+]

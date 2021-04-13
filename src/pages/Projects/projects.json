@@ -1,0 +1,275 @@
+[
+  {
+    "type": "repo",
+    "name": "Maikuro",
+    "description": "An ongoing project of trying to create programming language for embedded devices using ANTLR, C++, and LLVM framework",
+    "url": "https://github.com/maikuro-lang/maikuro",
+    "github": "maikuro-lang/maikuro",
+    "languages": [
+      "C++",
+      "ANTLR"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "Maikuro Jetbrains Language Plugin",
+    "description": "An ongoing project of trying to make Maikuro supported language in Jetbrains IDE",
+    "url": "https://github.com/maikuro-lang/maikuro-idea-plugin",
+    "github": "maikuro-lang/maikuro-idea-plugin",
+    "languages": [
+      "Java",
+      "ANTLR"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "create-react-app-router-redux-tailwind",
+    "description": "A basic project template of `create-react-app` with `react-router`, `redux` and `tailwindcss`",
+    "url": "https://github.com/aurimasniekis/create-react-app-router-redux-tailwind",
+    "github": "aurimasniekis/create-react-app-router-redux-tailwind",
+    "languages": [
+      "Javascript",
+      "React",
+      "Redux",
+      "Tailwindcss"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "create-react-app-router-redux",
+    "description": "A basic project template of `create-react-app` with `react-router`, `redux`",
+    "url": "https://github.com/aurimasniekis/create-react-app-router-redux",
+    "github": "aurimasniekis/create-react-app-router-redux",
+    "languages": [
+      "Javascript",
+      "React",
+      "Redux"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "Symfony Flex Server",
+    "description": "The Symfony.sh proxy with custom recipes for use instead of original endpoint",
+    "url": "https://github.com/aurimasniekis/flex-server",
+    "github": "aurimasniekis/flex-server",
+    "languages": [
+      "PHP",
+      "Symfony",
+      "Bootstrap"
+    ]
+  },
+  {
+    "type": "organisation",
+    "name": "Thruster PHP Framework",
+    "description": "Researching and developing asynchronous PHP application framework for high-performance and high-availability systems.",
+    "url": "https://github.com/thrusterio",
+    "github": "thrusterio",
+    "languages": [
+      "PHP"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "PHP Funct",
+    "description": "Researching and developing an PHP library with commonly used code blocks for faster development.",
+    "url": "https://github.com/phpfunct/funct",
+    "github": "phpfunct/funct",
+    "languages": [
+      "PHP"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "Discourse Telegram Mention Bot",
+    "description": "A simple plain PHP Telegram Bot to notify about Discourse posts which has defined list of keywords and post those urls to the Telegram Channel.",
+    "url": "https://github.com/techprowd/php-discourse-telegram-mention-bot",
+    "github": "techprowd/php-discourse-telegram-mention-bot",
+    "languages": [
+      "PHP",
+      "Github",
+      "Github Actions"
+    ]
+  },
+  {
+    "type": "organisation",
+    "name": "Project Zero",
+    "description": "A command line tool which provides tools for managing your project",
+    "url": "https://github.com/project-zer0",
+    "github": "project-zer0",
+    "languages": [
+      "PHP",
+      "Golang",
+      "Ruby"
+    ]
+  },
+  {
+    "type": "organisation",
+    "name": "PHP TD Gram",
+    "description": "A TdLib based PHP Telegram client framework.",
+    "url": "https://github.com/phptdgram",
+    "github": "phptdgram",
+    "languages": [
+      "PHP"
+    ]
+  },
+  {
+    "type": "organisation",
+    "name": "Tatsuki PHP Framework",
+    "description": "Researching and developing an PHP framework for ETL based applications.",
+    "url": "https://github.com/tasksuki",
+    "github": "tasksuki",
+    "languages": [
+      "PHP"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "google-translate-popup",
+    "description": "A small Electron app which makes Google Translate available on global shortcut with few nice features",
+    "url": "https://github.com/aurimasniekis/google-translate-popup",
+    "github": "aurimasniekis/google-translate-popup",
+    "languages": [
+      "Javascript"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "php-ext-tdlib",
+    "description": "A small Electron app which makes Google Translate available on global shortcut with few nice features",
+    "url": "https://github.com/aurimasniekis/php-ext-tdlib",
+    "github": "aurimasniekis/php-ext-tdlib",
+    "languages": [
+      "C"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "php-tdlib-schema",
+    "description": "A TdLib PHP Schema with generator for generating PHP objects from td_api.tl file",
+    "url": "https://github.com/aurimasniekis/php-tdlib-schema",
+    "github": "aurimasniekis/php-tdlib-schema",
+    "languages": [
+      "PHP8"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "webpack-glob-entries",
+    "description": "A small function which allows you to pass glob to generate entries hash object",
+    "url": "https://github.com/aurimasniekis/webpack-glob-entries",
+    "github": "aurimasniekis/webpack-glob-entries",
+    "languages": [
+      "Javascript"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "idea-php-psr4-namespace-detector",
+    "description": "PHPStorm Plugin which adds detection of PSR-4 Namespace prefixes based on `composer.json` properties: `autoload`, `autoload-dev`",
+    "url": "https://github.com/aurimasniekis/idea-php-psr4-namespace-detector",
+    "github": "aurimasniekis/idea-php-psr4-namespace-detector",
+    "languages": [
+      "Java"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "idea-php-class-templates",
+    "description": "PHPStorm plugin providing custom PHP Class templates using File Templates",
+    "url": "https://github.com/aurimasniekis/idea-php-class-templates",
+    "github": "aurimasniekis/idea-php-class-templates",
+    "languages": [
+      "Java"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "homebridge-eolia",
+    "description": "A Panasonic Eolia Air Conditionner integration into HomeBridge",
+    "url": "https://github.com/aurimasniekis/homebridge-eolia",
+    "github": "aurimasniekis/homebridge-eolia",
+    "languages": [
+      "Typescript"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "go-intel-power-gadget",
+    "description": "A Golang macOS IntelPowerGadget framework binding",
+    "url": "https://github.com/aurimasniekis/go-intel-power-gadget",
+    "github": "aurimasniekis/go-intel-power-gadget",
+    "languages": [
+      "Golang"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "eolia-client",
+    "description": "A NodeJS Panasonic Eolia Air Conditioner App API Client",
+    "url": "https://github.com/aurimasniekis/eolia-client",
+    "github": "aurimasniekis/eolia-client",
+    "languages": [
+      "Javascript"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "php-ffi-tdlib",
+    "description": "A PHP FFI integration with TdLib via JSON interface",
+    "url": "https://github.com/aurimasniekis/php-ffi-tdlib",
+    "github": "aurimasniekis/php-ffi-tdlib",
+    "languages": [
+      "PHP7"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "pushover-client",
+    "description": "A PSR-18/17 based Pushover.net client\n",
+    "url": "https://github.com/aurimasniekis/pushover-client",
+    "github": "aurimasniekis/pushover-client",
+    "languages": [
+      "PHP7"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "gsatis",
+    "description": "Extended Satis repository generator with Github Organisation integration",
+    "url": "https://github.com/aurimasniekis/gsatis",
+    "github": "aurimasniekis/gsatis",
+    "languages": [
+      "PHP7"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "scheduler-bundle",
+    "description": "A simple Symfony Job Scheduling Bundle",
+    "url": "https://github.com/aurimasniekis/scheduler-bundle",
+    "github": "aurimasniekis/scheduler-bundle",
+    "languages": [
+      "PHP7"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "gmo-aozora-simple-client",
+    "description": "A simple client for accessing your bank information from https://gmo-aozora.com/",
+    "url": "https://github.com/aurimasniekis/gmo-aozora-simple-client",
+    "github": "aurimasniekis/gmo-aozora-simple-client",
+    "languages": [
+      "PHP7"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "gmo-aozora-client",
+    "description": "A PSR-18/17 based client for accessing your bank information from https://gmo-aozora.com/",
+    "url": "https://github.com/aurimasniekis/gmo-aozora-client",
+    "github": "aurimasniekis/gmo-aozora-client",
+    "languages": [
+      "PHP7"
+    ]
+  }
+]
