@@ -15,6 +15,7 @@ Sentry.init({
     integrations: [new Integrations.BrowserTracing({
         routingInstrumentation: Sentry.reactRouterV5Instrumentation(history),
     })],
+    release: "aurimas.niekis.lt@2021.04.13",
 
     // Set tracesSampleRate to 1.0 to capture 100%
     // of transactions for performance monitoring.
