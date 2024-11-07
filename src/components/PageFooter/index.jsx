@@ -1,5 +1,7 @@
 import React from "react";
-import {NavLink} from "react-router-dom";
+import NavLink from "../NavLink";
+
+
 
 export const PageFooter = (props) => (
     <>
@@ -8,30 +10,30 @@ export const PageFooter = (props) => (
                 <nav className="print:hidden -mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
 
                     <div className="px-5 py-2">
-                        <NavLink exact={true} to="/" className="text-base text-gray-500 hover:text-gray-900"
+                        <NavLink to="/" className="text-base text-gray-500 hover:text-gray-900"
                                  activeClassName="text-gray-900">About</NavLink>
                     </div>
 
                     <div className="px-5 py-2">
-                        <NavLink exact={true} to="/cv" className="text-base text-gray-500 hover:text-gray-900"
+                        <NavLink to="/cv" className="text-base text-gray-500 hover:text-gray-900"
                                  activeClassName="text-gray-900">CV</NavLink>
                     </div>
 
                     <div className="px-5 py-2">
-                        <NavLink exact={true} to="/publications"
+                        <NavLink to="/publications"
                                  className="text-base text-gray-500 hover:text-gray-900"
                                  activeClassName="text-gray-900">Publications</NavLink>
 
                     </div>
 
                     <div className="px-5 py-2">
-                        <NavLink exact={true} to="/projects"
+                        <NavLink to="/projects"
                                  className="text-base text-gray-500 hover:text-gray-900"
                                  activeClassName="text-gray-900">Projects</NavLink>
                     </div>
 
                     <div className="px-5 py-2">
-                        <NavLink exact={true} to="/social_networks"
+                        <NavLink to="/social_networks"
                                  className="text-base text-gray-500 hover:text-gray-900"
                                  activeClassName="text-gray-900">Social Networks</NavLink>
                     </div>

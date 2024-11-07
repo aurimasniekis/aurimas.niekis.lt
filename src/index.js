@@ -1,21 +1,20 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import { Provider } from 'react-redux'
-import { ConnectedRouter } from "connected-react-router";
-import configureStore, { history } from './redux/configureStore';
+import {Provider} from 'react-redux'
+import configureStore, {history} from './redux/configureStore';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import ScrollToTop from "./components/ScrollToTop";
 import * as Sentry from "@sentry/react";
-import { Integrations } from "@sentry/tracing";
+import {createRoot} from "react-dom/client";
 
 Sentry.init({
     dsn: "https://caf76d832ecf4fe0a178c1d2dc11aed2@o204760.ingest.sentry.io/5716853",
-    integrations: [new Integrations.BrowserTracing({
-        routingInstrumentation: Sentry.reactRouterV5Instrumentation(history),
-    })],
-    release: "aurimas.niekis.lt@2021.04.13",
+    integrations: [
+        Sentry.reactRouterV5BrowserTracingIntegration({
+            history,
+        }),
+    ],
+    release: "aurimas.niekis.lt@2024.11.07",
 
     // Set tracesSampleRate to 1.0 to capture 100%
     // of transactions for performance monitoring.
@@ -25,16 +24,14 @@ Sentry.init({
 
 const store = configureStore();
 
-ReactDOM.render(
-  <React.StrictMode>
-    <Provider store={store}>
-        <ConnectedRouter history={history}>
-            <ScrollToTop/>
+const root = createRoot(document.getElementById("root"));
+
+root.render(
+    <React.StrictMode>
+        <Provider store={store}>
             <App store={store} history={history}/>
-        </ConnectedRouter>
-    </Provider>
-  </React.StrictMode>,
-  document.getElementById('root')
+        </Provider>
+    </React.StrictMode>
 );
 
 // If you want your app to work offline and load faster, you can change

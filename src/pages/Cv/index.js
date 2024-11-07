@@ -63,6 +63,7 @@ class CvPage extends Component {
                                                            responsibilities={entry.job.responsibilities}
                                                            technologies={entry.job.technologies}
                                                            attachments={entry.job.attachments}
+                                                           classNames={entry.job.classNames ?? ''}
                                     />;
                                 case "move":
                                     return <MoveLocation key={i} title={entry.move.title}/>;

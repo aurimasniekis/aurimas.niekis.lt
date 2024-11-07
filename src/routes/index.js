@@ -1,5 +1,5 @@
 import React from 'react';
-import {Switch, Route} from "react-router-dom";
+import {Route, Routes} from "react-router-dom";
 import MainPage from "../pages/Main";
 import PublicationsPage from "../pages/Publications";
 import {PageHeading} from "../components/PageHeading";
@@ -12,26 +12,14 @@ import SocialNetworksPage from "../pages/SocialNetworks";
 export default function routes() {
     return <>
         <PageHeading/>
-        <Switch>
-            <Route exact path="/">
-                <MainPage/>
-            </Route>
-            <Route exact path="/publications">
-                <PublicationsPage/>
-            </Route>
-            <Route exact path="/projects">
-                <ProjectsPage/>
-            </Route>
-            <Route exact path="/cv">
-                <CvPage/>
-            </Route>
-            <Route exact path="/social_networks">
-                <SocialNetworksPage/>
-            </Route>
-            <Route exact path="/contact_me">
-                <ContactMePage/>
-            </Route>
-        </Switch>
+        <Routes>
+            <Route path="/" element={<MainPage/>}/>
+            <Route exact path="/publications" element={<PublicationsPage/>}/>
+            <Route exact path="/projects" element={<ProjectsPage/>}/>
+            <Route exact path="/cv" element={<CvPage/>}/>
+            <Route exact path="/social_networks" element={<SocialNetworksPage/>}/>
+            <Route exact path="/contact_me" element={<ContactMePage/>}/>
+        </Routes>
         <PageFooter/>
     </>
 };

@@ -1,6 +1,6 @@
 import React from "react";
 import Unsplash from "../Unsplash";
-import {NavLink} from "react-router-dom";
+import NavLink from "../NavLink";
 
 export const PageHeading = (props) => (
     <>
@@ -28,40 +28,40 @@ export const PageHeading = (props) => (
                             </div>
                             <div
                                 className="hidden md:flex mt-6 flex-1 items-center space-x-0 sm:space-x-4 md:space-x-10 space-y-4 sm:space-y-0">
-                                <NavLink exact={true} to="/" className="print:hidden text-base font-medium text-gray-500 hover:text-gray-900"
+                                <NavLink to="/" className="print:hidden text-base font-medium text-gray-500 hover:text-gray-900"
                                          activeClassName="text-gray-900">About</NavLink>
-                                <NavLink exact={true} to="/cv" className="print:hidden text-base font-medium text-gray-500 hover:text-gray-900"
+                                <NavLink to="/cv" className="print:hidden text-base font-medium text-gray-500 hover:text-gray-900"
                                          activeClassName="text-gray-900">CV</NavLink>
-                                <NavLink exact={true} to="/publications"
+                                <NavLink to="/publications"
                                          className="print:hidden text-base font-medium text-gray-500 hover:text-gray-900"
                                          activeClassName="text-gray-900">Publications</NavLink>
-                                <NavLink exact={true} to="/projects"
+                                <NavLink to="/projects"
                                          className="print:hidden text-base font-medium text-gray-500 hover:text-gray-900"
                                          activeClassName="text-gray-900">Projects</NavLink>
-                                <NavLink exact={true} to="/social_networks"
+                                <NavLink to="/social_networks"
                                          className="print:hidden text-base font-medium text-gray-500 hover:text-gray-900"
                                          activeClassName="text-gray-900">Social Networks</NavLink>
                             </div>
 
                             <div className="mt-6 flex flex-col space-y-3 md:space-y-0 md:flex-row md:space-x-4">
 
-                                <NavLink exact={true} to="/"
+                                <NavLink to="/"
                                          className="inline-flex md:hidden justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500-500"
                                          activeClassName="text-gray-900 bg-gray-50">About</NavLink>
-                                <NavLink exact={true} to="/cv"
+                                <NavLink to="/cv"
                                          className="inline-flex md:hidden justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500-500"
                                          activeClassName="text-gray-900 bg-gray-50">CV</NavLink>
-                                <NavLink exact={true} to="/publications"
+                                <NavLink to="/publications"
                                          className="inline-flex md:hidden justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500-500"
                                          activeClassName="text-gray-900 bg-gray-50">Publications</NavLink>
-                                <NavLink exact={true} to="/projects"
+                                <NavLink to="/projects"
                                          className="inline-flex md:hidden justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500-500"
                                          activeClassName="text-gray-900 bg-gray-50">Projects</NavLink>
-                                <NavLink exact={true} to="/social_networks"
+                                <NavLink to="/social_networks"
                                          className="inline-flex md:hidden justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500-500"
                                          activeClassName="text-gray-900 bg-gray-50">Social Networks</NavLink>
 
-                                <NavLink exact={true} to="/contact_me"
+                                <NavLink to="/contact_me"
                                     className="print:hidden inline-flex justify-center px-4 py-2 border border-gray-300 shadow-sm text-sm font-medium rounded-md text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500-500">
                                     <svg className="-ml-1 mr-2 h-5 w-5 text-gray-400"
                                          xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"

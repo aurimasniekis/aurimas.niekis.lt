@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 // Constants
-const PATH = "//source.Unsplash.com";
+const PATH = "//unsplash.it";
 const USER = "user";
 const COLLECTION = "collection";
 const DAILY = "daily";
@@ -29,7 +29,7 @@ const generateUrl = ({
     if (!username && !collectionId && photoId) url.push(photoId)
     if (!username && !photoId && !collectionId && !keywords) url.push(RANDOM)
 
-    url.push(`${width}x${height}`)
+    url.push(`${width}/${height}`)
 
     if (keywords) url.push(`?${keywords.replace(/\s/g, "")}`)
 
@@ -41,11 +41,11 @@ export const Unsplash = function(props) {
         photoId,
         collectionId,
         username,
-        fixed,
+        fixed = false,
         keywords,
         style,
-        width,
-        height
+        width = WIDTH,
+        height = HEIGHT
     } = props;
 
     if (typeof width === "string") width = parseInt(width, 10)
@@ -82,14 +82,6 @@ Unsplash.propTypes = {
     style: PropTypes.object,
     width: PropTypes.oneOfType([PropTypes.string, PropTypes.number]),
     height: PropTypes.oneOfType([PropTypes.string, PropTypes.number])
-}
-
-Unsplash.defaultProps = {
-    expand: false,
-    fixed: false,
-    img: false,
-    width: WIDTH,
-    height: HEIGHT
 }
 
 export default Unsplash

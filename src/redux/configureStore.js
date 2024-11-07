@@ -1,7 +1,6 @@
 import {createLogger} from 'redux-logger';
 import {createBrowserHistory} from 'history';
 import {configureStore as toolkitConfigureStore} from '@reduxjs/toolkit'
-import {routerMiddleware} from 'connected-react-router'
 import createRootReducer from './rootReducer';
 import * as Sentry from "@sentry/react";
 
@@ -9,7 +8,7 @@ import * as Sentry from "@sentry/react";
 const logger = createLogger();
 
 const sentryReduxEnhancer = Sentry.createReduxEnhancer({
-    // Optionally pass options
+    // Optionally pass options listed below
 });
 
 export const history = createBrowserHistory();
@@ -20,14 +19,16 @@ export default function configureStore(preloadedState) {
             reducer: createRootReducer(history),
             middleware: (getDefaultMiddleware) => {
                 if (process.env.NODE_ENV !== 'production') {
-                    return getDefaultMiddleware().concat(logger).concat(routerMiddleware(history))
+                    return getDefaultMiddleware().concat(logger)
                 }
 
-                return getDefaultMiddleware().concat(routerMiddleware(history))
+                return getDefaultMiddleware()
             },
             devTools: process.env.NODE_ENV !== 'production',
             preloadedState,
-            enhancers: [sentryReduxEnhancer]
+            enhancers: (getDefaultEnhancers) => {
+                return getDefaultEnhancers().concat(sentryReduxEnhancer);
+            },
         }
     );
 }

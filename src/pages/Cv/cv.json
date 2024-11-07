@@ -1,5 +1,104 @@
 [
   {
+    "type": "move",
+    "move": {
+      "title": "December 2023 – Moved to Tokyo, Japan"
+    }
+  },
+  {
+    "type": "job",
+    "job": {
+      "company_name": "Thruster Industries",
+      "url": "https://thruster.indutries",
+      "position": "CEO & Founder",
+      "logos": [
+        {
+          "src": "/images/ti.png",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "October 2021",
+        "end": "Present"
+      },
+      "location": "Vilnius, Lithuania",
+      "sector": "Technology",
+      "industry": "Software / Tech Services",
+      "about_company": "Thruster Industries is a pioneering technology company focused on delivering innovative solutions in software development, hardware engineering, and integrated tech systems. Known for its expertise in cutting-edge software architecture, embedded systems, and IoT technology, Thruster Industries creates scalable and high-performance solutions tailored to industry needs. The company combines advanced technologies like artificial intelligence, machine learning, and data analytics to address complex challenges, transforming them into streamlined, efficient systems. Dedicated to driving progress, Thruster Industries empowers businesses through customized tech integration, enhancing productivity and fostering sustainable growth.",
+      "about_position": "As CEO and Founder of Thruster Industries, I lead with a strategic vision that integrates advanced technologies, including AI, large language models (LLMs), and IoT, to drive innovation across software, hardware, and system solutions. My role encompasses both high-level planning and hands-on technical execution, ensuring that each project—from initial concept to final implementation—meets the highest standards of quality, performance, and scalability tailored to each client’s needs.\n\nWith expertise spanning AI, embedded systems, software engineering, and next-gen tech, I tackle complex challenges by combining strategic foresight with practical, technical application. I guide Thruster Industries in developing solutions that leverage AI-driven insights, LLMs, and machine learning to stay ahead of industry trends and continually push the boundaries of technological advancement. Each solution we deliver is crafted to maximize impact, aligning with the latest innovations in AI and integrated technology.\n\nIn cultivating a culture of excellence and innovation, I focus on creating solutions that deliver transformative value for clients. My leadership has positioned Thruster Industries as a trusted partner in the tech industry, known for delivering custom, high-performance solutions that empower businesses to thrive in an evolving, technology-driven landscape.",
+      "responsibilities": [
+        "Lead Thruster Industries with strategic vision and technical direction",
+        "Oversee software, hardware, and AI-driven projects from concept to delivery",
+        "Drive innovation and ensure quality at all development stages",
+        "Develop solutions focused on IoT, embedded systems, software, and AI",
+        "Ensure alignment with industry standards and emerging technologies",
+        "Analyze and resolve complex technical challenges",
+        "Deliver scalable, high-performance solutions for clients",
+        "Manage project timelines, resources, and budgets",
+        "Track progress through project plans and status reports",
+        "Implement continuous improvements in processes",
+        "Collaborate with clients to translate needs into solutions",
+        "Create technical documentation for stakeholders",
+        "Mentor engineering staff on best practices",
+        "Evaluate and integrate tools and AI frameworks to boost efficiency",
+        "Conduct performance and integration testing for reliability"
+      ],
+      "technologies": [
+        "Java",
+        "Kotlin",
+        "PHP",
+        "Golang",
+        "C++",
+        "C",
+        "Python",
+        "Typescript",
+        "Javascript",
+        "Symfony",
+        "AWS",
+        "GCP",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "OpenAI",
+        "GPT-4",
+        "Claude",
+        "Anthropic",
+        "ChatGPT",
+        "LLM",
+        "Hugging Face",
+        "BERT",
+        "RoBERTa",
+        "TensorFlow",
+        "PyTorch",
+        "LangChain",
+        "Keras",
+        "MLflow",
+        "MySQL",
+        "Postgres",
+        "Redis",
+        "RabbitMQ",
+        "InfluxDB",
+        "RocksDB",
+        "Elasticsearch",
+        "ELK",
+        "Grafana",
+        "Github",
+        "Jenkins",
+        "Redmine",
+        "Jira"
+      ],
+      "classNames": " pagebreak",
+      "attachments": [
+      ]
+    }
+  },
+  {
+    "type": "move",
+    "move": {
+      "title": "October 2021 – Moved to Vilnius, Lithuania"
+    }
+  },
+  {
     "type": "job",
     "job": {
       "company_name": "GMO Research, Inc.",
@@ -13,7 +112,7 @@
       ],
       "work_period": {
         "start": "February 2020",
-        "end": "Present"
+        "end": "January 2023"
       },
       "location": "Tokyo, Japan",
       "sector": "Communications",

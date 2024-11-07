@@ -1,13 +1,16 @@
 import React from 'react';
-import { Router } from 'react-router-dom';
+import {BrowserRouter} from 'react-router-dom';
 import Routes from './routes';
 import * as Sentry from "@sentry/react";
+import ScrollToTop from "./components/ScrollToTop";
 
 
 const App = ({history}) => (
-    <Router history={history}>
+    <BrowserRouter>
+        <ScrollToTop/>
+
         <Routes/>
-    </Router>
+    </BrowserRouter>
 )
 
 export default Sentry.withProfiler(App);

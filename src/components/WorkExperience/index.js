@@ -26,13 +26,14 @@ class WorkExperience extends React.Component {
             filename: PropTypes.string.isRequired,
             url: PropTypes.string.isRequired,
         })),
+        classNames: PropTypes.string,
     };
 
     static defaultProps = {};
 
     render() {
         return <>
-            <div className="mt-10 bg-white shadow-xl print:shadow-none overflow-hidden sm:rounded-lg prevent-page-break print:mt-2">
+            <div className={`mt-10 bg-white shadow-xl print:shadow-none overflow-hidden sm:rounded-lg prevent-page-break print:mt-4 ${this.props.classNames}`}>
                 <div className="px-4 py-5 sm:px-6 flex flex-row">
                     <div className="flex-1">
                         <a href={this.props.url} target="_blank" rel="noreferrer">

@@ -3,6 +3,21 @@ import {connect} from 'react-redux';
 import NamePopover from "./NamePopover";
 
 
+const calculateAge = (birthYear, birthMonth, birthDay) => {
+    const today = new Date();
+    let age = today.getFullYear() - birthYear;
+
+    // Check if the birthday has not occurred yet this year
+    if (
+        (today.getMonth() < (birthMonth - 1)) ||
+        (today.getMonth() === (birthMonth - 1) && today.getDate() < birthDay)
+    ) {
+        age--;
+    }
+
+    return age;
+};
+
 class Introduction extends React.Component {
     static propTypes = {};
 
@@ -15,13 +30,12 @@ class Introduction extends React.Component {
         };
 
         const currentCompany = {
-            name: "GMO Research",
-            url: "https://gmo-research.com/",
-            location: "Tokyo, Japan"
+            name: "Thruster Industries",
+            url: "https://thruster.industries/",
+            location: "Vilnius, Lithuania"
         };
 
-        const today = new Date();
-        const age = (today.getFullYear() - 1993) - ((today.getMonth() >= 10 && today.getDay() >= 24) ? 0 : 1);
+        const age = calculateAge(1993, 10, 24)
 
         const aurimas_exp = [["UU", "u", "put"], ["r", "r", "rat"], ["ih", "i", "it"], ["m", "m", "me"], ["uh", "u", "up"], ["s", "s", "so"]];
         const niekis_exp = [["Nj", "n", "new"], ["ie", "ea", "near"], ["k", "k", "sky"], ["i", "i", "hit"], ["s", "ce", "peace"]];

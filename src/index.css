@@ -17,8 +17,22 @@ html {
     .prevent-page-break {
         page-break-inside: avoid;
     }
+
+    .pagebreak {
+        clear: both;
+        page-break-after: always;
+    }
 }
 
+/*@page {*/
+/*    margin: 0cm !important;*/
+/*}*/
+
 @page {
-    margin: 0cm !important;
+    margin-top: 0.5in;
+    margin-bottom: 0.5in;
+}
+
+@page :first {
+    margin-top: 0cm !important;
 }

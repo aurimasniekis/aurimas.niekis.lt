@@ -2,8 +2,8 @@ import * as React from 'react';
 import {connect} from 'react-redux';
 import PropTypes from 'prop-types';
 import GitHubCalendar from "react-github-calendar";
-import ReactTooltip from "react-tooltip";
 import {changeGithubGraphYear} from "../../redux/modules/projects/actions";
+import {Tooltip} from "react-tooltip";
 
 class GitHubGraph extends React.Component {
     static propTypes = {
@@ -67,9 +67,14 @@ class GitHubGraph extends React.Component {
                     </div>}
 
                     <div className="mt-5 flex flex-initial justify-center">
-                        <GitHubCalendar username={this.props.username} years={[this.props.currentYear]} fontSize="16">
-                            {this.props.tooltips && <ReactTooltip delayShow={50} html/>}
+                        <div className="h-100">
+                        <GitHubCalendar theme={{
+                            light: ['#f0f0f0', '#c4edde', '#7ac7c4', '#f73859', '#384259'],
+                            dark: ['#f0f0f0', '#c4edde', '#7ac7c4', '#f73859', '#384259'],
+                        }} username={this.props.username} year={this.props.currentYear}>
+
                         </GitHubCalendar>
+                        </div>
                     </div>
                 </div>
             </div>

@@ -14,9 +14,9 @@ export const loadLatestArticles = (limit= 10) => dispatch => {
     });
 
     const api = new GhostContentAPI({
-        url: 'https://techprowd.ghost.io',
-        key: 'b434a06b289b4dfab175b6afb2',
-        version: "v3"
+        url: 'https://blog.niekis.lt',
+        key: '110aa5227cd2ff56855a1d8e20',
+        version: "v5.0"
     });
 
     api.posts
