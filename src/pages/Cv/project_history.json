@@ -1,5 +1,33 @@
 [
   {
+    "name": "FramJet",
+    "type": "Creation & Contributions",
+    "url": "https://github.com/framjet/",
+    "logos": [
+      {
+        "src": "/images/framjet.png",
+        "size": "h-10"
+      }
+    ],
+    "work_period": {
+      "start": "2021",
+      "end": "Present"
+    },
+    "about": "FramJet is a Java Spring Boot based framework created to accelerate the development of scalable, maintainable, and production-ready applications. It was designed to reduce repetitive boilerplate work by providing a structured foundation, predefined architectural patterns, and reusable tooling that support rapid project setup and consistent implementation across systems.\n\nThe framework focuses on transforming abstract ideas and requirements into clear, well-defined project structures and intelligent, practical solutions. FramJet integrates best practices for backend architecture, modular design, configuration management, and system extensibility, enabling teams to focus on business logic rather than infrastructure concerns. It serves as a foundation for building complex systems efficiently while maintaining long-term flexibility and code quality.",
+    "technologies": [
+      "Docker",
+      "Kubernetes",
+      "Golang",
+      "Java v25",
+      "Kotlin",
+      "Lua",
+      "PHP",
+      "Python",
+      "Rust",
+      "Typescript"
+    ]
+  },
+  {
     "name": "Symfony",
     "type": "Contributions",
     "url": "https://github.com/symfony/",

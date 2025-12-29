@@ -12,6 +12,7 @@
       "Javascript",
       "Java",
       "NodeJS",
+      "Python",
       "PHP",
       "Ruby",
       "Rust",
@@ -52,11 +53,13 @@
       "HTML5",
       "Javascript",
       "JSX",
+      "NX",
       "React",
       "Redux",
       "Tailwindcss",
       "Typescript",
-      "WebPack"
+      "WebPack",
+      "Vite"
     ]
   },
   {
@@ -76,6 +79,7 @@
       "Kafka",
       "Presto",
       "RabbitMQ",
+      "Pulsar",
       "Spark"
     ]
   },
@@ -116,6 +120,7 @@
       "Docker",
       "Vagrant",
       "VirtualBox",
+      "VMware vSphere",
       "VMware ESXi",
       "VMware Fusion",
       "VMware Workstation"
@@ -125,6 +130,8 @@
     "title": "DevOps",
     "technologies": [
       "Kubernetes",
+      "ArgoCD",
+      "Rancher",
       "Ansible",
       "Chef",
       "Puppet",
@@ -139,7 +146,16 @@
     "title": "Monitoring Tools",
     "technologies": [
       "New Relic",
-      "Sentry"
+      "Sentry",
+      "OpenTelemetry",
+      "Prometheus",
+      "Grafana",
+      "Mimir",
+      "Loki",
+      "Tempo",
+      "Periscope",
+      "ELK",
+      "Datadog"
     ]
   },
   {
@@ -147,7 +163,8 @@
     "technologies": [
       "AWS",
       "GCP",
-      "DigitalOcean"
+      "DigitalOcean",
+      "Linode"
     ]
   },
   {
@@ -246,7 +263,9 @@
     "technologies": [
       "Adobe Photoshop",
       "Adobe Illustrator",
-      "Sketch"
+      "Sketch",
+      "Figma",
+      "Canva"
     ]
   }
 ]

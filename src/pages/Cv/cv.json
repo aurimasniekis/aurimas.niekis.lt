@@ -8,6 +8,91 @@
   {
     "type": "job",
     "job": {
+      "company_name": "Baller, Inc",
+      "url": "https://baller.co.jp",
+      "position": "CTO & Co-Founder",
+      "logos": [
+        {
+          "src": "/images/baller.png",
+          "size": "h-10"
+        }
+      ],
+      "work_period": {
+        "start": "May 2021",
+        "end": "Present"
+      },
+      "location": "Tokyo, Japan",
+      "sector": "Technology",
+      "industry": "Software / Tech Services",
+      "about_company": "Baller Inc. is a Tokyo-based technology company focused on delivering innovative software solutions that blend custom development with design thinking and advanced AI technologies. The company’s mission is to democratize IT development by enabling speed, flexibility, and ease in building digital products and systems, helping clients bring ideas to life without traditional resource constraints. Baller specializes in end-to-end custom development, enterprise frameworks that significantly reduce workloads, and emerging low-code tools to accelerate collaboration and productivity across projects. The team works in agile cycles with real-time collaboration, supporting clients from concept through launch and continuous improvement.",
+      "about_position": "As Chief Technology Officer at Baller Inc., I was responsible for maintaining and overseeing the entire IT side of the company. This included defining and executing the technical strategy, supervising engineering teams, and ensuring the stability, scalability, and security of all systems and infrastructure. I led development work across internal initiatives and client projects, taking ownership of system architecture, core frameworks, and innovative technical solutions.\n\nI worked closely with clients to bring their ideas from early concepts to well-defined projects by distilling business needs into clear technical requirements and intelligent, practical solutions. This involved shaping project definitions, proposing system designs, and ensuring that complex ideas were transformed into scalable and maintainable implementations. Alongside leadership responsibilities, I contributed hands-on due to limited personnel, actively participating in development, system design, DevOps, and infrastructure management while balancing client communication and delivery execution.",
+      "responsibilities": [
+        "Maintained and managed the entire IT infrastructure and technology stack of the company",
+        "Defined and executed the technical vision and engineering strategy",
+        "Supervised, guided, and supported engineering teams across multiple projects",
+        "Led development efforts for internal products and client-facing solutions",
+        "Worked closely with clients to understand ideas, business goals, and technical constraints",
+        "Translated early-stage client ideas into clear project definitions and intelligent, practical solutions",
+        "Distilled complex requirements into scalable system architecture and technical designs",
+        "Designed and maintained core frameworks, reusable components, and system architectures",
+        "Developed innovative technical solutions to support new products and services",
+        "Managed DevOps operations including CI/CD pipelines, cloud infrastructure, and server environments",
+        "Ensured system reliability, scalability, security, and performance",
+        "Established development standards, best practices, and workflows",
+        "Contributed hands-on to development, system design, and technical problem-solving due to limited personnel",
+        "Coordinated technical delivery timelines and ensured successful project execution"
+      ],
+      "technologies": [
+        "Java v25",
+        "Kotlin",
+        "PHP",
+        "Golang",
+        "C++",
+        "C",
+        "Rust",
+        "Python",
+        "Typescript",
+        "Javascript",
+        "Symfony",
+        "AWS",
+        "GCP",
+        "Linode",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "LLM",
+        "MySQL",
+        "Postgres",
+        "Redis",
+        "RabbitMQ",
+        "InfluxDB",
+        "RocksDB",
+        "Elasticsearch",
+        "Pulsar",
+        "ELK",
+        "Grafana",
+        "OpenTelemetry",
+        "Prometheus",
+        "Mimir",
+        "Loki",
+        "Tempo",
+        "ArgoCD",
+        "Rancher",
+        "VMWare vSphere",
+        "VMWare ESXi",
+        "Cloudflare",
+        "Github",
+        "Jenkins",
+        "Jira"
+      ],
+      "classNames": " pagebreak",
+      "attachments": [
+      ]
+    }
+  },
+  {
+    "type": "job",
+    "job": {
       "company_name": "Thruster Industries",
       "url": "https://thruster.indutries",
       "position": "CEO & Founder",
@@ -19,7 +104,7 @@
       ],
       "work_period": {
         "start": "October 2021",
-        "end": "Present"
+        "end": "April 2023"
       },
       "location": "Vilnius, Lithuania",
       "sector": "Technology",

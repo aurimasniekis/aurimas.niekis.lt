@@ -14,7 +14,7 @@ Sentry.init({
             history,
         }),
     ],
-    release: "aurimas.niekis.lt@2024.11.07",
+    release: "aurimas.niekis.lt@2025.12.29",
 
     // Set tracesSampleRate to 1.0 to capture 100%
     // of transactions for performance monitoring.
