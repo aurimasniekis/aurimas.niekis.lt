@@ -28,6 +28,22 @@
     ]
   },
   {
+    "name": "BlastDOM",
+    "type": "Creation & Contributions",
+    "url": "https://github.com/blastdom/",
+    "logos": [
+    ],
+    "work_period": {
+      "start": "2024",
+      "end": "Present"
+    },
+    "about": "BlastDOM is a JSON-driven UI framework created to enable the construction of dynamic, reactive user interfaces through declarative schema definitions rather than imperative code. It was designed to decouple UI structure, data binding, and event handling from any specific programming language, allowing teams to define entire application interfaces as portable JSON documents that can be rendered and executed across multiple runtime environments.\n\nThe framework focuses on transforming UI requirements into structured, language-agnostic schemas built from composable nodes, reactive values, and declarative actions. BlastDOM integrates a signal-based reactivity system, a scoped data resolution model, and a rich set of built-in node types covering elements, conditionals, loops, templates, and asynchronous state,  enabling teams to describe complex UI behavior without writing rendering logic. With official SDKs for TypeScript, Java, Kotlin, and PHP, it serves as a universal UI contract layer, allowing backend systems to generate, validate, and serve fully interactive interfaces while maintaining consistency and portability across platforms.",
+    "technologies": [
+      "Typescript",
+      "React"
+    ]
+  },
+  {
     "name": "Symfony",
     "type": "Contributions",
     "url": "https://github.com/symfony/",

@@ -30,9 +30,9 @@ class Introduction extends React.Component {
         };
 
         const currentCompany = {
-            name: "Thruster Industries",
-            url: "https://thruster.industries/",
-            location: "Vilnius, Lithuania"
+            name: "Baller, Inc",
+            url: "https://baller.co.jp/",
+            location: "Tokyo, Japan"
         };
 
         const age = calculateAge(1993, 10, 24)

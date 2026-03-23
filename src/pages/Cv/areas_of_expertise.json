@@ -229,8 +229,11 @@
       "RS-485",
       "Ethernet",
       "Wiegand",
+      "LoRa",
+      "LoRaWAN",
       "6LoWPAN",
       "Sub-1Ghz",
+      "Bluetooth LE",
       "WiFi"
     ]
   },

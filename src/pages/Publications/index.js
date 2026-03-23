@@ -16,7 +16,7 @@ class PublicationsPage extends Component {
         return <>
             <div>
                 <RecentPresentations title="My Articles" limit="all"/>
-                <RecentPublications title="My Articles" limit="all"/>
+                {/*<RecentPublications title="My Articles" limit="all"/>*/}
             </div>
         </>
     }

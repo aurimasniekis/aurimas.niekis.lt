@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 import Introduction from "../../components/Introduction";
 import GitHubGraph from "../../components/GithubGraph";
 import SimpleSectionHeading from "../../components/Headings/Section/Simple";
-import RecentPublications from "../../components/RecentPublications";
+import RecentPresentations from "../../components/RecentPresentations";
 
 class MainPage extends Component {
     static propTypes = {
@@ -23,9 +23,10 @@ class MainPage extends Component {
         return <>
             <div>
                 <Introduction/>
-                <RecentPublications title="My Recent publications" limit="3"/>
-                <SimpleSectionHeading title="Github Activity" id="github_activity">My recent Github activity like commits, issues, pull request and etc.</SimpleSectionHeading>
-                <GitHubGraph username="aurimasniekis" currentYear={this.props.currentYear}  tooltips={true}/>
+                <RecentPresentations title="My Recent publications" limit="3"/>
+                <SimpleSectionHeading title="Github Activity" id="github_activity">My recent Github activity like
+                    commits, issues, pull request and etc.</SimpleSectionHeading>
+                <GitHubGraph username="aurimasniekis" currentYear={this.props.currentYear} tooltips={true}/>
             </div>
         </>
     }
@@ -35,7 +36,6 @@ const mapStateToProps = (state) => ({
     currentYear: state.projects.github_graph_current_year,
 });
 
-const mapDispatchToProps = {
-};
+const mapDispatchToProps = {};
 
 export default connect(mapStateToProps, mapDispatchToProps)(MainPage);
