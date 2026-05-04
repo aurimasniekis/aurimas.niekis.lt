@@ -1,5 +1,43 @@
 [
   {
+    "type": "organisation",
+    "name": "FramJet",
+    "description": "An umbrella organisation for FramJet projects: TypeScript SPA tooling, PHP/Symfony libraries, Docker base images, and Go/Rust services for application infrastructure and DevOps.",
+    "url": "https://github.com/framjet",
+    "github": "framjet",
+    "languages": [
+      "Java",
+      "Kotlin",
+      "TypeScript",
+      "PHP",
+      "Go",
+      "Rust",
+      "Docker",
+      "Shell"
+    ]
+  },
+  {
+    "type": "organisation",
+    "name": "BlastDOM",
+    "description": "A declarative UI framework that uses JSON schema to visually compose interfaces, connect data, and define interactions for web and mobile apps.",
+    "url": "https://github.com/blastdom",
+    "github": "blastdom",
+    "languages": [
+      "TypeScript",
+      "React"
+    ]
+  },
+  {
+    "type": "organisation",
+    "name": "WebGNSS",
+    "description": "Browser-based GPS/GNSS client tooling that parses NMEA and UBX binary protocols in real time via Web Serial and visualises position, satellites and signal data.",
+    "url": "https://github.com/WebGNSS",
+    "github": "WebGNSS",
+    "languages": [
+      "TypeScript"
+    ]
+  },
+  {
     "type": "repo",
     "name": "Maikuro",
     "description": "An ongoing project of trying to create programming language for embedded devices using ANTLR, C++, and LLVM framework",
@@ -19,6 +57,113 @@
     "languages": [
       "Java",
       "ANTLR"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "Parcel",
+    "description": "A wrappable, wire-transferable C++23 value system with JSON serialization for cross-boundary data exchange.",
+    "url": "https://github.com/aurimasniekis/cpp-parcel",
+    "github": "aurimasniekis/cpp-parcel",
+    "languages": [
+      "C++"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "Ulid",
+    "description": "A C++ header-only implementation of ULID (Universally Unique Lexicographically Sortable Identifier).",
+    "url": "https://github.com/aurimasniekis/cpp-ulid",
+    "github": "aurimasniekis/cpp-ulid",
+    "languages": [
+      "C++"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "OpenWRT AirBridge",
+    "description": "AirBridge enables wireless USB device sharing using USB/IP over WiFi. It allows connecting USB devices to an OpenWRT-based router and accessing them wirelessly from any computer on the network.",
+    "url": "https://github.com/aurimasniekis/openwrt-airbridge",
+    "github": "aurimasniekis/openwrt-airbridge",
+    "languages": [
+      "Shell",
+      "OpenWRT"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "hassio-tepco2mqtt",
+    "description": "A Home Assistant add-on that automates data extraction from the TEPCO website using a headless Chromium browser and publishes it to an MQTT broker for seamless Home Assistant integration.",
+    "url": "https://github.com/aurimasniekis/hassio-tepco2mqtt",
+    "github": "aurimasniekis/hassio-tepco2mqtt",
+    "languages": [
+      "TypeScript",
+      "Home Assistant",
+      "MQTT"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "idea-typespec",
+    "description": "A WebStorm plugin for TypeSpec support with LSP integration and TextMate-based syntax highlighting.",
+    "url": "https://github.com/aurimasniekis/idea-typespec",
+    "github": "aurimasniekis/idea-typespec",
+    "languages": [
+      "Java",
+      "TypeSpec"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "esphome-syslog-bridge",
+    "description": "A lightweight tool that forwards ESPHome log events to a remote syslog server, packaged in a Docker container without language dependencies.",
+    "url": "https://github.com/aurimasniekis/esphome-syslog-bridge",
+    "github": "aurimasniekis/esphome-syslog-bridge",
+    "languages": [
+      "Shell",
+      "Docker"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "esphome-custom-components",
+    "description": "A collection of custom ESPHome components for various sensors and integrations.",
+    "url": "https://github.com/aurimasniekis/esphome-custom-components",
+    "github": "aurimasniekis/esphome-custom-components",
+    "languages": [
+      "C++",
+      "ESPHome"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "homebridge-eolia",
+    "description": "A Panasonic Eolia Air Conditionner integration into HomeBridge",
+    "url": "https://github.com/aurimasniekis/homebridge-eolia",
+    "github": "aurimasniekis/homebridge-eolia",
+    "languages": [
+      "Typescript"
+    ]
+  },
+  {
+    "type": "repo",
+    "name": "eolia-client",
+    "description": "A NodeJS Panasonic Eolia Air Conditioner App API Client",
+    "url": "https://github.com/aurimasniekis/eolia-client",
+    "github": "aurimasniekis/eolia-client",
+    "languages": [
+      "Javascript"
+    ]
+  },
+  {
+    "type": "organisation",
+    "name": "Mark48Evo",
+    "description": "An electric skateboard control system with VESC/UBX protocol parsers, ESC tooling, GPS/state services and a system-wide event bus over RabbitMQ/Redis.",
+    "url": "https://github.com/Mark48Evo",
+    "github": "Mark48Evo",
+    "languages": [
+      "Javascript",
+      "NodeJS"
     ]
   },
   {
@@ -184,32 +329,12 @@
   },
   {
     "type": "repo",
-    "name": "homebridge-eolia",
-    "description": "A Panasonic Eolia Air Conditionner integration into HomeBridge",
-    "url": "https://github.com/aurimasniekis/homebridge-eolia",
-    "github": "aurimasniekis/homebridge-eolia",
-    "languages": [
-      "Typescript"
-    ]
-  },
-  {
-    "type": "repo",
     "name": "go-intel-power-gadget",
     "description": "A Golang macOS IntelPowerGadget framework binding",
     "url": "https://github.com/aurimasniekis/go-intel-power-gadget",
     "github": "aurimasniekis/go-intel-power-gadget",
     "languages": [
       "Golang"
-    ]
-  },
-  {
-    "type": "repo",
-    "name": "eolia-client",
-    "description": "A NodeJS Panasonic Eolia Air Conditioner App API Client",
-    "url": "https://github.com/aurimasniekis/eolia-client",
-    "github": "aurimasniekis/eolia-client",
-    "languages": [
-      "Javascript"
     ]
   },
   {
