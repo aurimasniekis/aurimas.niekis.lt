@@ -1,0 +1,16 @@
+// Cloudflare Worker serving the CRA build as static assets.
+// Deployed by .github/workflows/deploy.yml (or locally: pnpm build && npx wrangler@4 deploy).
+{
+  "name": "aurimas-niekis-lt",
+  "compatibility_date": "2025-10-01",
+  "assets": {
+    "directory": "./build",
+    // client-side routes (/cv, /projects, ...) fall back to index.html
+    "not_found_handling": "single-page-application"
+  },
+  "routes": [
+    // the existing proxied DNS record for this host must be deleted before the first deploy
+    { "pattern": "aurimas.niekis.lt", "custom_domain": true }
+    // aurimas.niekis.eu: add once the niekis.eu zone is moved to Cloudflare
+  ]
+}
