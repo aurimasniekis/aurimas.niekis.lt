@@ -6,7 +6,10 @@
   "assets": {
     "directory": "./build",
     // client-side routes (/cv, /projects, ...) fall back to index.html
-    "not_found_handling": "single-page-application"
+    "not_found_handling": "single-page-application",
+    // serve *.html at their exact path (no 307 to the extensionless URL), so the
+    // Google site-verification file is fetched as-is
+    "html_handling": "none"
   },
   "routes": [
     // the existing proxied DNS record for this host must be deleted before the first deploy
