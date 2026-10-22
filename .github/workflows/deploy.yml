@@ -36,10 +36,10 @@ jobs:
           # CRA turns lint warnings into errors when CI=true
           CI: "false"
 
+      # npx instead of cloudflare/wrangler-action: the action picks yarn because of the
+      # old yarn.lock and fails installing wrangler into the pnpm node_modules
       - name: Deploy
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          wranglerVersion: "4"
-          command: deploy
+        run: npx -y wrangler@4 deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
